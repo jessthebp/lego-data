@@ -14,7 +14,7 @@ rgb: hex RGB code (e.g., 05131D).
 
 is_trans: whether the color is transparent/translucent.
 
-In your Round 2 version: additional columns like num_parts, num_sets, y1, y2 (first/last year of use).
+In Round 2 version: additional columns like num_parts, num_sets, y1, y2 (first/last year of use).
 
 sets.csv
 
@@ -96,7 +96,7 @@ name: part name.
 
 part_cat_id: foreign key to part_categories.csv.
 
-(In your Round 2 data: part_material).
+(In Round 2 data: part_material).
 
 part_categories.csv
 
