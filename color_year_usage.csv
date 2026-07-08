@@ -1,0 +1,3068 @@
+year,color,total_quantity
+1949.0,Blue,72
+1949.0,Bright Green,6
+1949.0,Green,140
+1949.0,Red,151
+1949.0,Vintage Blue,24
+1949.0,Vintage Green,32
+1949.0,Vintage Red,31
+1949.0,Vintage Yellow,24
+1949.0,White,199
+1949.0,Yellow,111
+1950.0,Blue,10
+1950.0,Green,9
+1950.0,Red,3
+1953.0,Blue,2
+1953.0,Green,26
+1953.0,Red,26
+1953.0,White,26
+1953.0,Yellow,26
+1954.0,Blue,18
+1954.0,Green,6
+1954.0,Light Gray,1
+1954.0,Red,70
+1954.0,Trans-Clear,2
+1954.0,White,63
+1954.0,Yellow,18
+1955.0,Blue,189
+1955.0,Green,12
+1955.0,Red,332
+1955.0,Trans-Clear,43
+1955.0,White,488
+1955.0,Yellow,188
+1955.0,[No Color/Any Color],1
+1956.0,Blue,6
+1956.0,Red,166
+1956.0,Trans-Clear,19
+1956.0,White,297
+1956.0,Yellow,6
+1956.0,[No Color/Any Color],7
+1957.0,Black,1
+1957.0,Blue,88
+1957.0,Green,15
+1957.0,HO Earth Orange,1
+1957.0,HO Light Brown,1
+1957.0,HO Light Gold,1
+1957.0,HO Medium Red,1
+1957.0,HO Olive Green,1
+1957.0,HO Sand Blue,1
+1957.0,HO Tan,1
+1957.0,Light Gray,3
+1957.0,Metal,2
+1957.0,Red,300
+1957.0,Trans-Clear,61
+1957.0,White,987
+1957.0,Yellow,20
+1957.0,[No Color/Any Color],4
+1958.0,Black,198
+1958.0,Blue,336
+1958.0,Green,28
+1958.0,HO Aqua,1
+1958.0,HO Blue-gray,2
+1958.0,HO Cyan,1
+1958.0,HO Dark Aqua,1
+1958.0,HO Dark Blue,1
+1958.0,HO Dark Green,1
+1958.0,HO Dark Lime,1
+1958.0,HO Dark Red,1
+1958.0,HO Dark Sand Green,1
+1958.0,HO Earth Orange,1
+1958.0,HO Gold,1
+1958.0,HO Light Aqua,1
+1958.0,HO Light Gold,1
+1958.0,HO Light Tan,1
+1958.0,HO Light Yellow,1
+1958.0,HO Medium Blue,2
+1958.0,HO Medium Red,3
+1958.0,HO Metallic Blue,2
+1958.0,HO Metallic Dark Gray,1
+1958.0,HO Metallic Green,1
+1958.0,HO Metallic Sand Blue,1
+1958.0,HO Olive Green,1
+1958.0,HO Rose,1
+1958.0,HO Sand Blue,1
+1958.0,HO Sand Green,2
+1958.0,HO Tan,1
+1958.0,HO Titanium,1
+1958.0,Light Gray,2
+1958.0,Metal,10
+1958.0,Red,401
+1958.0,Trans-Clear,218
+1958.0,White,1461
+1958.0,Yellow,225
+1958.0,[No Color/Any Color],6
+1959.0,Black,1
+1959.0,Blue,21
+1959.0,HO Dark Blue,1
+1959.0,HO Light Tan,1
+1959.0,HO Metallic Dark Gray,1
+1959.0,Light Gray,1
+1959.0,Red,22
+1959.0,White,8
+1959.0,[No Color/Any Color],1
+1960.0,Black,20
+1960.0,Blue,50
+1960.0,Green,2
+1960.0,Red,160
+1960.0,Trans-Clear,26
+1960.0,White,287
+1960.0,Yellow,30
+1960.0,[No Color/Any Color],1
+1961.0,Black,15
+1961.0,Blue,167
+1961.0,Green,15
+1961.0,HO Dark Blue,4
+1961.0,HO Dark Gray,3
+1961.0,HO Dark Green,2
+1961.0,HO Dark Red,3
+1961.0,HO Light Tan,1
+1961.0,HO Metallic Blue,1
+1961.0,HO Olive Green,1
+1961.0,Light Gray,82
+1961.0,Metal,2
+1961.0,Red,665
+1961.0,Trans-Clear,315
+1961.0,White,1150
+1961.0,Yellow,199
+1961.0,[No Color/Any Color],4
+1962.0,Black,349
+1962.0,Blue,376
+1962.0,Green,184
+1962.0,Light Gray,377
+1962.0,Metal,1
+1962.0,Red,488
+1962.0,Trans-Clear,503
+1962.0,White,797
+1962.0,Yellow,349
+1962.0,[No Color/Any Color],2
+1963.0,Black,236
+1963.0,Blue,226
+1963.0,Green,3
+1963.0,HO Azure,1
+1963.0,HO Dark Gray,4
+1963.0,HO Dark Red,2
+1963.0,Light Gray,97
+1963.0,Milky White,10
+1963.0,Modulex Aqua Green,16
+1963.0,Modulex Black,2503
+1963.0,Modulex Brown,2223
+1963.0,Modulex Buff,1626
+1963.0,Modulex Charcoal Gray,2
+1963.0,Modulex Clear,1394
+1963.0,Modulex Foil Dark Blue,1
+1963.0,Modulex Foil Dark Gray,1
+1963.0,Modulex Foil Dark Green,1
+1963.0,Modulex Foil Light Blue,1
+1963.0,Modulex Foil Light Gray,1
+1963.0,Modulex Foil Light Green,1
+1963.0,Modulex Foil Orange,1
+1963.0,Modulex Foil Red,1
+1963.0,Modulex Foil Violet,1
+1963.0,Modulex Foil Yellow,1
+1963.0,Modulex Lemon,23
+1963.0,Modulex Light Bluish Gray,10
+1963.0,Modulex Light Gray,2249
+1963.0,Modulex Light Orange,7
+1963.0,Modulex Light Yellow,8
+1963.0,Modulex Medium Blue,9
+1963.0,Modulex Ochre Yellow,1107
+1963.0,Modulex Olive Green,1111
+1963.0,Modulex Orange,26
+1963.0,Modulex Pastel Blue,19
+1963.0,Modulex Pastel Green,35
+1963.0,Modulex Pink,20
+1963.0,Modulex Pink Red,7
+1963.0,Modulex Red,26
+1963.0,Modulex Teal Blue,1104
+1963.0,Modulex Terracotta,1622
+1963.0,Modulex Tile Blue,80
+1963.0,Modulex Tile Brown,161
+1963.0,Modulex Tile Gray,222
+1963.0,Modulex Violet,7
+1963.0,Modulex White,2998
+1963.0,Red,689
+1963.0,Trans-Clear,57
+1963.0,White,549
+1963.0,Yellow,140
+1963.0,[No Color/Any Color],11
+1964.0,Black,321
+1964.0,Blue,400
+1964.0,Green,12
+1964.0,HO Dark Blue,2
+1964.0,HO Dark Gray,4
+1964.0,HO Dark Green,1
+1964.0,HO Dark Red,4
+1964.0,HO Light Tan,1
+1964.0,HO Olive Green,7
+1964.0,HO Sand Green,2
+1964.0,HO Tan,1
+1964.0,Light Gray,142
+1964.0,Milky White,3
+1964.0,Red,521
+1964.0,Trans-Clear,69
+1964.0,White,434
+1964.0,Yellow,70
+1965.0,Black,252
+1965.0,Blue,278
+1965.0,Green,6
+1965.0,HO Dark Blue,1
+1965.0,HO Dark Turquoise,1
+1965.0,HO Olive Green,4
+1965.0,Light Gray,145
+1965.0,Milky White,1
+1965.0,Red,374
+1965.0,Trans-Clear,108
+1965.0,Trans-Dark Blue,1
+1965.0,White,501
+1965.0,Yellow,127
+1965.0,[No Color/Any Color],1
+1966.0,Black,396
+1966.0,Blue,1169
+1966.0,Green,46
+1966.0,Light Gray,351
+1966.0,Milky White,11
+1966.0,Red,2367
+1966.0,Trans-Clear,430
+1966.0,White,2411
+1966.0,Yellow,541
+1966.0,[No Color/Any Color],1
+1967.0,Black,700
+1967.0,Blue,685
+1967.0,Green,36
+1967.0,Light Gray,359
+1967.0,Milky White,1
+1967.0,Red,1101
+1967.0,Trans-Clear,147
+1967.0,White,666
+1967.0,Yellow,475
+1967.0,[No Color/Any Color],2
+1968.0,Black,814
+1968.0,Blue,473
+1968.0,Green,13
+1968.0,Light Gray,305
+1968.0,Milky White,4
+1968.0,Red,2068
+1968.0,Trans-Clear,244
+1968.0,White,1388
+1968.0,Yellow,626
+1969.0,Black,1023
+1969.0,Blue,1066
+1969.0,Green,51
+1969.0,Light Gray,314
+1969.0,Metal,2
+1969.0,Milky White,6
+1969.0,Red,1928
+1969.0,Trans-Clear,454
+1969.0,Trans-Green,4
+1969.0,Trans-Red,4
+1969.0,Trans-Yellow,4
+1969.0,White,1411
+1969.0,Yellow,618
+1970.0,Black,615
+1970.0,Blue,316
+1970.0,Green,133
+1970.0,HO Blue-gray,1
+1970.0,Light Gray,173
+1970.0,Metal,12
+1970.0,Milky White,33
+1970.0,Red,1145
+1970.0,Trans-Clear,193
+1970.0,White,865
+1970.0,Yellow,449
+1971.0,Black,740
+1971.0,Blue,592
+1971.0,Green,119
+1971.0,Light Gray,101
+1971.0,Red,1837
+1971.0,Trans-Clear,186
+1971.0,White,1417
+1971.0,Yellow,386
+1971.0,[No Color/Any Color],2
+1972.0,Black,750
+1972.0,Blue,838
+1972.0,Green,22
+1972.0,Light Gray,203
+1972.0,Milky White,18
+1972.0,Red,1267
+1972.0,Trans-Clear,97
+1972.0,White,743
+1972.0,Yellow,647
+1972.0,[No Color/Any Color],19
+1973.0,Black,1106
+1973.0,Blue,1218
+1973.0,Green,59
+1973.0,Light Gray,151
+1973.0,Milky White,2
+1973.0,Red,2434
+1973.0,Trans-Clear,239
+1973.0,White,1901
+1973.0,Yellow,914
+1973.0,[No Color/Any Color],20
+1974.0,Black,810
+1974.0,Blue,579
+1974.0,Brown,6
+1974.0,Green,9
+1974.0,Light Gray,217
+1974.0,Maersk Blue,7
+1974.0,Metal,16
+1974.0,Milky White,29
+1974.0,Red,1076
+1974.0,Trans-Clear,160
+1974.0,White,862
+1974.0,Yellow,592
+1974.0,[No Color/Any Color],20
+1975.0,Black,1222
+1975.0,Blue,1034
+1975.0,Brown,7
+1975.0,Green,37
+1975.0,Light Gray,129
+1975.0,Milky White,10
+1975.0,Red,1538
+1975.0,Trans-Clear,165
+1975.0,White,492
+1975.0,Yellow,826
+1975.0,[No Color/Any Color],15
+1976.0,Black,2900
+1976.0,Blue,1916
+1976.0,Brown,11
+1976.0,Green,79
+1976.0,Light Gray,369
+1976.0,Milky White,41
+1976.0,Red,2499
+1976.0,Trans-Clear,284
+1976.0,Trans-Red,4
+1976.0,White,1946
+1976.0,Yellow,1778
+1976.0,[No Color/Any Color],25
+1977.0,Black,2195
+1977.0,Blue,1301
+1977.0,Brown,6
+1977.0,Chrome Silver,2
+1977.0,Green,48
+1977.0,Light Gray,916
+1977.0,Milky White,20
+1977.0,Red,2115
+1977.0,Trans-Clear,430
+1977.0,White,1127
+1977.0,Yellow,1843
+1977.0,[No Color/Any Color],17
+1978.0,Black,2953
+1978.0,Blue,840
+1978.0,Brown,37
+1978.0,Dark Gray,8
+1978.0,Green,113
+1978.0,Light Gray,1487
+1978.0,Milky White,5
+1978.0,Red,2631
+1978.0,Trans-Clear,244
+1978.0,Trans-Dark Blue,20
+1978.0,Trans-Green,11
+1978.0,Trans-Red,11
+1978.0,Trans-Yellow,4
+1978.0,White,1711
+1978.0,Yellow,2368
+1978.0,[No Color/Any Color],56
+1979.0,Black,1691
+1979.0,Blue,1817
+1979.0,Brown,26
+1979.0,Dark Gray,8
+1979.0,Fabuland Brown,1
+1979.0,Fabuland Red,1
+1979.0,Green,96
+1979.0,Light Gray,2334
+1979.0,Nougat,2
+1979.0,Red,1179
+1979.0,Trans-Clear,109
+1979.0,Trans-Dark Blue,46
+1979.0,Trans-Green,55
+1979.0,Trans-Red,128
+1979.0,Trans-Yellow,144
+1979.0,White,1480
+1979.0,Yellow,1656
+1979.0,[No Color/Any Color],36
+1980.0,Black,3478
+1980.0,Blue,1505
+1980.0,Brown,14
+1980.0,Dark Gray,361
+1980.0,Fabuland Red,1
+1980.0,Green,88
+1980.0,Light Gray,2797
+1980.0,Maersk Blue,115
+1980.0,Nougat,1
+1980.0,Red,2172
+1980.0,Trans-Clear,231
+1980.0,Trans-Dark Blue,18
+1980.0,Trans-Green,25
+1980.0,Trans-Red,84
+1980.0,Trans-Yellow,96
+1980.0,White,845
+1980.0,Yellow,1563
+1980.0,[No Color/Any Color],33
+1981.0,Black,2148
+1981.0,Blue,867
+1981.0,Brown,10
+1981.0,Dark Gray,42
+1981.0,Green,145
+1981.0,Light Gray,1892
+1981.0,Milky White,2
+1981.0,Red,1637
+1981.0,Trans-Clear,159
+1981.0,Trans-Dark Blue,45
+1981.0,Trans-Green,24
+1981.0,Trans-Red,113
+1981.0,Trans-Yellow,61
+1981.0,White,1229
+1981.0,Yellow,1559
+1981.0,[No Color/Any Color],26
+1982.0,Black,1114
+1982.0,Blue,643
+1982.0,Brown,20
+1982.0,Dark Gray,11
+1982.0,Earth Orange,14
+1982.0,Fabuland Brown,15
+1982.0,Fabuland Lime,2
+1982.0,Green,74
+1982.0,Light Gray,852
+1982.0,Milky White,1
+1982.0,Nougat,1
+1982.0,Red,1052
+1982.0,Tan,9
+1982.0,Trans-Clear,54
+1982.0,Trans-Dark Blue,8
+1982.0,Trans-Green,13
+1982.0,Trans-Red,50
+1982.0,Trans-Yellow,43
+1982.0,White,1022
+1982.0,Yellow,932
+1982.0,[No Color/Any Color],21
+1983.0,Black,1863
+1983.0,Blue,786
+1983.0,Brown,10
+1983.0,Dark Gray,78
+1983.0,Earth Orange,1
+1983.0,Fabuland Brown,2
+1983.0,Fabuland Orange,1
+1983.0,Green,67
+1983.0,Light Gray,1239
+1983.0,Red,1066
+1983.0,Trans-Clear,141
+1983.0,Trans-Dark Blue,33
+1983.0,Trans-Green,23
+1983.0,Trans-Red,99
+1983.0,Trans-Yellow,46
+1983.0,White,1341
+1983.0,Yellow,649
+1983.0,[No Color/Any Color],36
+1984.0,Black,1990
+1984.0,Blue,1536
+1984.0,Brown,54
+1984.0,Dark Gray,37
+1984.0,Earth Orange,1
+1984.0,Fabuland Brown,4
+1984.0,Green,82
+1984.0,Light Gray,1678
+1984.0,Red,749
+1984.0,Trans-Clear,92
+1984.0,Trans-Dark Blue,8
+1984.0,Trans-Green,36
+1984.0,Trans-Red,180
+1984.0,Trans-Yellow,125
+1984.0,White,660
+1984.0,Yellow,923
+1984.0,[No Color/Any Color],12
+1985.0,Black,4583
+1985.0,Blue,2494
+1985.0,Brown,88
+1985.0,Dark Gray,254
+1985.0,Earth Orange,3
+1985.0,Fabuland Brown,9
+1985.0,Fabuland Lime,1
+1985.0,Fabuland Red,6
+1985.0,Green,287
+1985.0,Light Gray,3058
+1985.0,Maersk Blue,132
+1985.0,Milky White,3
+1985.0,Nougat,6
+1985.0,Red,4081
+1985.0,Royal Blue,1
+1985.0,Trans-Clear,491
+1985.0,Trans-Dark Blue,48
+1985.0,Trans-Green,43
+1985.0,Trans-Light Blue,62
+1985.0,Trans-Red,270
+1985.0,Trans-Yellow,137
+1985.0,White,2520
+1985.0,Yellow,2226
+1985.0,[No Color/Any Color],127
+1986.0,Black,4060
+1986.0,Blue,1697
+1986.0,Brown,80
+1986.0,Dark Gray,28
+1986.0,Earth Orange,1
+1986.0,Fabuland Brown,6
+1986.0,Fabuland Lime,13
+1986.0,Fabuland Red,7
+1986.0,Green,206
+1986.0,Light Gray,3546
+1986.0,Maersk Blue,18
+1986.0,Nougat,5
+1986.0,Red,2487
+1986.0,Tan,19
+1986.0,Trans-Clear,162
+1986.0,Trans-Dark Blue,38
+1986.0,Trans-Green,61
+1986.0,Trans-Light Blue,26
+1986.0,Trans-Red,277
+1986.0,Trans-Yellow,171
+1986.0,White,3096
+1986.0,Yellow,1949
+1986.0,[No Color/Any Color],52
+1987.0,Black,3828
+1987.0,Blue,1677
+1987.0,Brown,63
+1987.0,Dark Gray,21
+1987.0,Earth Orange,3
+1987.0,Fabuland Brown,12
+1987.0,Fabuland Orange,4
+1987.0,Green,236
+1987.0,Light Gray,1713
+1987.0,Milky White,5
+1987.0,Red,2680
+1987.0,Trans-Clear,208
+1987.0,Trans-Dark Blue,61
+1987.0,Trans-Green,37
+1987.0,Trans-Light Blue,36
+1987.0,Trans-Red,236
+1987.0,Trans-Yellow,103
+1987.0,White,3029
+1987.0,Yellow,1976
+1987.0,[No Color/Any Color],36
+1988.0,Black,3259
+1988.0,Blue,558
+1988.0,Brown,56
+1988.0,Dark Gray,47
+1988.0,Earth Orange,2
+1988.0,Fabuland Brown,3
+1988.0,Green,177
+1988.0,Light Gray,1453
+1988.0,Red,1117
+1988.0,Tan,1
+1988.0,Trans-Clear,72
+1988.0,Trans-Dark Blue,92
+1988.0,Trans-Green,18
+1988.0,Trans-Light Blue,35
+1988.0,Trans-Red,274
+1988.0,Trans-Yellow,76
+1988.0,White,2315
+1988.0,Yellow,1474
+1988.0,[No Color/Any Color],32
+1989.0,Black,5210
+1989.0,Blue,1371
+1989.0,Brown,578
+1989.0,Chrome Gold,176
+1989.0,Dark Gray,222
+1989.0,Fabuland Red,1
+1989.0,Green,300
+1989.0,Light Gray,2324
+1989.0,Milky White,2
+1989.0,Nougat,1
+1989.0,Red,1739
+1989.0,Rust,9
+1989.0,Trans-Clear,119
+1989.0,Trans-Dark Blue,38
+1989.0,Trans-Green,15
+1989.0,Trans-Light Blue,52
+1989.0,Trans-Red,223
+1989.0,Trans-Yellow,149
+1989.0,White,2236
+1989.0,Yellow,2295
+1989.0,[No Color/Any Color],23
+1990.0,Black,4324
+1990.0,Blue,1658
+1990.0,Brown,129
+1990.0,Chrome Gold,8
+1990.0,Dark Gray,73
+1990.0,Earth Orange,12
+1990.0,Fabuland Brown,1
+1990.0,Green,276
+1990.0,Light Gray,2890
+1990.0,Nougat,1
+1990.0,Red,4335
+1990.0,Trans-Clear,179
+1990.0,Trans-Dark Blue,64
+1990.0,Trans-Green,30
+1990.0,Trans-Light Blue,177
+1990.0,Trans-Neon Green,112
+1990.0,Trans-Red,153
+1990.0,Trans-Yellow,153
+1990.0,White,4312
+1990.0,Yellow,1955
+1990.0,[No Color/Any Color],163
+1991.0,Black,5705
+1991.0,Blue,1304
+1991.0,Brown,181
+1991.0,Chrome Gold,12
+1991.0,Dark Gray,241
+1991.0,Earth Orange,2
+1991.0,Fabuland Brown,3
+1991.0,Fabuland Red,4
+1991.0,Green,263
+1991.0,Light Gray,3193
+1991.0,Light Pink,9
+1991.0,Nougat,5
+1991.0,Red,4159
+1991.0,Rust,4
+1991.0,Trans-Clear,327
+1991.0,Trans-Dark Blue,92
+1991.0,Trans-Green,43
+1991.0,Trans-Light Blue,189
+1991.0,Trans-Neon Green,218
+1991.0,Trans-Red,205
+1991.0,Trans-Yellow,222
+1991.0,White,3906
+1991.0,Yellow,2938
+1991.0,[No Color/Any Color],55
+1992.0,Black,4668
+1992.0,Blue,877
+1992.0,Brown,239
+1992.0,Chrome Gold,44
+1992.0,Dark Gray,144
+1992.0,Duplo Lime,5
+1992.0,Duplo Pink,14
+1992.0,Green,286
+1992.0,Light Gray,3360
+1992.0,Light Green,13
+1992.0,Light Pink,125
+1992.0,Maersk Blue,4
+1992.0,Milky White,16
+1992.0,Red,2025
+1992.0,Tan,10
+1992.0,Trans-Clear,128
+1992.0,Trans-Dark Blue,97
+1992.0,Trans-Green,69
+1992.0,Trans-Light Blue,85
+1992.0,Trans-Neon Green,10
+1992.0,Trans-Red,101
+1992.0,Trans-Yellow,185
+1992.0,Violet,1
+1992.0,White,2721
+1992.0,Yellow,1349
+1992.0,[No Color/Any Color],34
+1993.0,Black,5684
+1993.0,Blue,1228
+1993.0,Brown,264
+1993.0,Chrome Gold,60
+1993.0,Chrome Silver,1
+1993.0,Dark Gray,200
+1993.0,Duplo Pink,33
+1993.0,Earth Orange,2
+1993.0,Glow In Dark Opaque,6
+1993.0,Green,320
+1993.0,Light Gray,3348
+1993.0,Light Green,16
+1993.0,Light Pink,93
+1993.0,Maersk Blue,3
+1993.0,Nougat,1
+1993.0,Red,2232
+1993.0,Trans-Clear,193
+1993.0,Trans-Dark Blue,52
+1993.0,Trans-Green,61
+1993.0,Trans-Light Blue,100
+1993.0,Trans-Neon Green,34
+1993.0,Trans-Neon Orange,172
+1993.0,Trans-Red,156
+1993.0,Trans-Yellow,159
+1993.0,White,3087
+1993.0,Yellow,1577
+1993.0,[No Color/Any Color],45
+1994.0,Black,6199
+1994.0,Blue,1062
+1994.0,Brown,185
+1994.0,Chrome Gold,36
+1994.0,Chrome Silver,25
+1994.0,Dark Gray,237
+1994.0,Dark Orange,2
+1994.0,Earth Orange,4
+1994.0,Fabuland Red,2
+1994.0,Glow In Dark Opaque,2
+1994.0,Green,387
+1994.0,Light Gray,3858
+1994.0,Light Green,10
+1994.0,Light Violet,30
+1994.0,Light Yellow,23
+1994.0,Medium Dark Pink,169
+1994.0,Medium Green,81
+1994.0,Nougat,2
+1994.0,Pink,72
+1994.0,Red,3006
+1994.0,Tan,6
+1994.0,Trans-Clear,108
+1994.0,Trans-Dark Blue,176
+1994.0,Trans-Green,28
+1994.0,Trans-Light Blue,131
+1994.0,Trans-Neon Green,86
+1994.0,Trans-Neon Orange,22
+1994.0,Trans-Red,131
+1994.0,Trans-Yellow,131
+1994.0,White,2571
+1994.0,Yellow,1685
+1994.0,[No Color/Any Color],86
+1995.0,Black,6642
+1995.0,Blue,2599
+1995.0,Bright Green,3
+1995.0,Brown,210
+1995.0,Chrome Gold,26
+1995.0,Chrome Silver,63
+1995.0,Dark Gray,324
+1995.0,Dark Orange,2
+1995.0,Earth Orange,6
+1995.0,Glow In Dark Opaque,3
+1995.0,Green,501
+1995.0,Light Blue,2
+1995.0,Light Gray,4777
+1995.0,Light Green,3
+1995.0,Light Violet,23
+1995.0,Light Yellow,3
+1995.0,Maersk Blue,18
+1995.0,Medium Dark Pink,89
+1995.0,Medium Green,54
+1995.0,Pink,89
+1995.0,Red,3456
+1995.0,Tan,1
+1995.0,Trans-Clear,85
+1995.0,Trans-Dark Blue,114
+1995.0,Trans-Green,28
+1995.0,Trans-Light Blue,56
+1995.0,Trans-Neon Green,97
+1995.0,Trans-Neon Orange,80
+1995.0,Trans-Red,144
+1995.0,Trans-Yellow,152
+1995.0,White,3230
+1995.0,Yellow,3401
+1995.0,[No Color/Any Color],63
+1996.0,Black,9742
+1996.0,Blue,2906
+1996.0,Bright Green,4
+1996.0,Brown,1063
+1996.0,Chrome Gold,92
+1996.0,Chrome Silver,88
+1996.0,Dark Gray,687
+1996.0,Dark Orange,3
+1996.0,Glow In Dark Opaque,3
+1996.0,Green,912
+1996.0,Light Blue,2
+1996.0,Light Gray,4631
+1996.0,Light Violet,39
+1996.0,Light Yellow,19
+1996.0,Medium Dark Pink,198
+1996.0,Medium Green,41
+1996.0,Nougat,16
+1996.0,Pink,113
+1996.0,Red,3975
+1996.0,Tan,15
+1996.0,Trans-Clear,173
+1996.0,Trans-Dark Blue,103
+1996.0,Trans-Green,65
+1996.0,Trans-Light Blue,165
+1996.0,Trans-Neon Green,187
+1996.0,Trans-Neon Orange,164
+1996.0,Trans-Red,186
+1996.0,Trans-Yellow,217
+1996.0,White,6122
+1996.0,Yellow,3709
+1996.0,[No Color/Any Color],86
+1997.0,Black,7345
+1997.0,Blue,2601
+1997.0,Bright Green,33
+1997.0,Brown,472
+1997.0,Chrome Gold,88
+1997.0,Chrome Silver,114
+1997.0,Dark Gray,583
+1997.0,Dark Orange,26
+1997.0,Earth Orange,20
+1997.0,Green,1530
+1997.0,Light Gray,5202
+1997.0,Light Green,50
+1997.0,Light Salmon,157
+1997.0,Light Violet,50
+1997.0,Light Yellow,43
+1997.0,Medium Blue,23
+1997.0,Medium Dark Pink,70
+1997.0,Medium Green,88
+1997.0,Medium Orange,14
+1997.0,Metallic Gold,1
+1997.0,Milky White,6
+1997.0,Neon Green,12
+1997.0,Neon Orange,6
+1997.0,Nougat,51
+1997.0,Pink,40
+1997.0,Purple,1
+1997.0,Red,4093
+1997.0,Rust,6
+1997.0,Salmon,106
+1997.0,Tan,30
+1997.0,Trans-Clear,169
+1997.0,Trans-Dark Blue,52
+1997.0,Trans-Green,73
+1997.0,Trans-Light Blue,84
+1997.0,Trans-Neon Green,367
+1997.0,Trans-Neon Orange,141
+1997.0,Trans-Red,126
+1997.0,Trans-Yellow,93
+1997.0,Very Light Gray,27
+1997.0,White,3138
+1997.0,Yellow,3927
+1997.0,[No Color/Any Color],207
+1998.0,Aqua,17
+1998.0,Black,12086
+1998.0,Blue,6032
+1998.0,Bright Green,75
+1998.0,Brown,524
+1998.0,Chrome Blue,1
+1998.0,Chrome Gold,55
+1998.0,Chrome Silver,155
+1998.0,Dark Gray,1815
+1998.0,Dark Orange,17
+1998.0,Dark Turquoise,445
+1998.0,Earth Orange,14
+1998.0,Glow In Dark Opaque,5
+1998.0,Green,2656
+1998.0,Light Blue,1
+1998.0,Light Gray,5195
+1998.0,Light Green,27
+1998.0,Light Lime,5
+1998.0,Light Orange,20
+1998.0,Light Salmon,17
+1998.0,Light Turquoise,9
+1998.0,Light Violet,18
+1998.0,Light Yellow,27
+1998.0,Medium Blue,16
+1998.0,Medium Dark Pink,104
+1998.0,Medium Green,43
+1998.0,Medium Lime,44
+1998.0,Medium Orange,73
+1998.0,Metallic Gold,3
+1998.0,Metallic Silver,16
+1998.0,Milky White,6
+1998.0,Nougat,39
+1998.0,Orange,130
+1998.0,Pink,3
+1998.0,Purple,299
+1998.0,Red,7330
+1998.0,Salmon,76
+1998.0,Tan,383
+1998.0,Trans-Clear,214
+1998.0,Trans-Dark Blue,132
+1998.0,Trans-Dark Pink,1
+1998.0,Trans-Green,192
+1998.0,Trans-Light Blue,87
+1998.0,Trans-Neon Green,434
+1998.0,Trans-Neon Orange,94
+1998.0,Trans-Red,217
+1998.0,Trans-Yellow,160
+1998.0,Very Light Gray,5
+1998.0,Violet,1
+1998.0,White,5975
+1998.0,Yellow,6827
+1998.0,[No Color/Any Color],165
+1999.0,Aqua,5
+1999.0,Black,8332
+1999.0,Blue,3089
+1999.0,Bright Green,112
+1999.0,Brown,320
+1999.0,Chrome Gold,67
+1999.0,Chrome Green,2
+1999.0,Chrome Silver,90
+1999.0,Dark Blue,2
+1999.0,Dark Bluish Gray,1
+1999.0,Dark Gray,1682
+1999.0,Dark Green,32
+1999.0,Dark Orange,23
+1999.0,Dark Turquoise,238
+1999.0,Earth Orange,11
+1999.0,Glitter Milky White,3
+1999.0,Glitter Trans-Clear,9
+1999.0,Glitter Trans-Dark Pink,7
+1999.0,Glow In Dark Opaque,17
+1999.0,Green,1439
+1999.0,Light Gray,5654
+1999.0,Light Green,7
+1999.0,Light Lime,2
+1999.0,Light Orange,9
+1999.0,Light Salmon,4
+1999.0,Light Turquoise,10
+1999.0,Light Violet,21
+1999.0,Light Yellow,38
+1999.0,Medium Blue,31
+1999.0,Medium Bluish Violet,24
+1999.0,Medium Dark Pink,90
+1999.0,Medium Green,7
+1999.0,Medium Lime,19
+1999.0,Medium Orange,11
+1999.0,Metallic Gold,16
+1999.0,Metallic Silver,18
+1999.0,Milky White,2
+1999.0,Neon Green,13
+1999.0,Neon Orange,8
+1999.0,Nougat,52
+1999.0,Orange,173
+1999.0,Pink,48
+1999.0,Purple,198
+1999.0,Red,3578
+1999.0,Rust,6
+1999.0,Salmon,2
+1999.0,Tan,421
+1999.0,Trans-Brown,7
+1999.0,Trans-Clear,163
+1999.0,Trans-Dark Blue,179
+1999.0,Trans-Dark Pink,7
+1999.0,Trans-Green,93
+1999.0,Trans-Light Blue,208
+1999.0,Trans-Neon Green,260
+1999.0,Trans-Neon Orange,179
+1999.0,Trans-Red,245
+1999.0,Trans-Yellow,199
+1999.0,Very Light Gray,1
+1999.0,Violet,12
+1999.0,White,3903
+1999.0,Yellow,3438
+1999.0,[No Color/Any Color],131
+2000.0,Aqua,44
+2000.0,Black,9095
+2000.0,Blue,2423
+2000.0,Bright Green,113
+2000.0,Brown,719
+2000.0,Chrome Gold,16
+2000.0,Chrome Silver,42
+2000.0,Dark Gray,2852
+2000.0,Dark Olive Green,10
+2000.0,Dark Orange,29
+2000.0,Dark Purple,1
+2000.0,Dark Tan,6
+2000.0,Dark Turquoise,79
+2000.0,Earth Orange,12
+2000.0,Glitter Trans-Clear,1
+2000.0,Glitter Trans-Dark Pink,1
+2000.0,Glitter Trans-Green,1
+2000.0,Glitter Trans-Purple,1
+2000.0,Glow In Dark Opaque,7
+2000.0,Green,2040
+2000.0,Light Blue,8
+2000.0,Light Gray,5530
+2000.0,Light Green,1
+2000.0,Light Orange,17
+2000.0,Light Turquoise,84
+2000.0,Light Violet,4
+2000.0,Light Yellow,31
+2000.0,Lime,68
+2000.0,Magenta,10
+2000.0,Medium Blue,54
+2000.0,Medium Bluish Violet,16
+2000.0,Medium Dark Pink,35
+2000.0,Medium Green,29
+2000.0,Medium Lime,8
+2000.0,Medium Orange,24
+2000.0,Medium Violet,2
+2000.0,Metal,3
+2000.0,Metallic Gold,2
+2000.0,Metallic Silver,46
+2000.0,Nougat,21
+2000.0,Orange,431
+2000.0,Pearl Black,4
+2000.0,Pearl Light Gold,2
+2000.0,Pearl Light Gray,134
+2000.0,Pearl Sand Blue,17
+2000.0,Pearl Very Light Gray,9
+2000.0,Pink,20
+2000.0,Purple,92
+2000.0,Red,3476
+2000.0,Rust,2
+2000.0,Salmon,2
+2000.0,Sand Green,2867
+2000.0,Tan,896
+2000.0,Trans-Brown,16
+2000.0,Trans-Clear,295
+2000.0,Trans-Dark Blue,121
+2000.0,Trans-Dark Pink,30
+2000.0,Trans-Green,84
+2000.0,Trans-Light Blue,169
+2000.0,Trans-Light Purple,4
+2000.0,Trans-Neon Green,218
+2000.0,Trans-Neon Orange,209
+2000.0,Trans-Purple,14
+2000.0,Trans-Red,190
+2000.0,Trans-Yellow,108
+2000.0,Very Light Gray,207
+2000.0,Very Light Orange,15
+2000.0,Violet,12
+2000.0,White,3193
+2000.0,Yellow,2772
+2000.0,[No Color/Any Color],169
+2000.0,[Unknown],17
+2001.0,Aqua,3
+2001.0,Black,11306
+2001.0,Blue,2601
+2001.0,Bright Green,79
+2001.0,Brown,972
+2001.0,Chrome Antique Brass,8
+2001.0,Chrome Blue,2
+2001.0,Chrome Gold,35
+2001.0,Chrome Pink,1
+2001.0,Chrome Silver,81
+2001.0,Dark Blue,9
+2001.0,Dark Gray,3266
+2001.0,Dark Green,1
+2001.0,Dark Nougat,4
+2001.0,Dark Olive Green,1
+2001.0,Dark Orange,59
+2001.0,Dark Purple,6
+2001.0,Dark Red,78
+2001.0,Dark Tan,1
+2001.0,Dark Turquoise,78
+2001.0,Earth Orange,3
+2001.0,Glitter Trans-Dark Pink,2
+2001.0,Glow In Dark Opaque,4
+2001.0,Green,2972
+2001.0,Light Blue,6
+2001.0,Light Gray,6276
+2001.0,Light Green,2
+2001.0,Light Orange,3
+2001.0,Light Turquoise,17
+2001.0,Light Violet,5
+2001.0,Light Yellow,53
+2001.0,Lime,61
+2001.0,Magenta,3
+2001.0,Medium Blue,114
+2001.0,Medium Bluish Violet,2
+2001.0,Medium Dark Pink,61
+2001.0,Medium Green,13
+2001.0,Medium Lime,18
+2001.0,Medium Orange,29
+2001.0,Medium Violet,1
+2001.0,Metal,1
+2001.0,Metallic Gold,14
+2001.0,Metallic Green,23
+2001.0,Metallic Silver,9
+2001.0,Milky White,1
+2001.0,Nougat,23
+2001.0,Orange,242
+2001.0,Pearl Dark Gray,1
+2001.0,Pearl Light Gold,1
+2001.0,Pearl Light Gray,89
+2001.0,Pink,5
+2001.0,Purple,46
+2001.0,Red,3544
+2001.0,Rust,5
+2001.0,Sand Blue,155
+2001.0,Sand Green,136
+2001.0,Sand Purple,94
+2001.0,Sand Red,538
+2001.0,Tan,910
+2001.0,Trans-Brown,38
+2001.0,Trans-Clear,239
+2001.0,Trans-Dark Blue,104
+2001.0,Trans-Dark Pink,48
+2001.0,Trans-Green,86
+2001.0,Trans-Light Blue,150
+2001.0,Trans-Medium Blue,15
+2001.0,Trans-Neon Green,309
+2001.0,Trans-Neon Orange,283
+2001.0,Trans-Neon Red,5
+2001.0,Trans-Neon Yellow,10
+2001.0,Trans-Purple,9
+2001.0,Trans-Red,258
+2001.0,Trans-Yellow,62
+2001.0,Two-tone Copper,2
+2001.0,Violet,6
+2001.0,White,3857
+2001.0,Yellow,2786
+2001.0,[No Color/Any Color],428
+2002.0,Aqua,17
+2002.0,Black,15478
+2002.0,Blue,3127
+2002.0,Bright Green,186
+2002.0,Brown,1355
+2002.0,Chrome Antique Brass,6
+2002.0,Chrome Gold,54
+2002.0,Chrome Silver,113
+2002.0,Copper,2
+2002.0,Dark Blue,66
+2002.0,Dark Bluish Gray,542
+2002.0,Dark Gray,4162
+2002.0,Dark Green,6
+2002.0,Dark Nougat,1
+2002.0,Dark Orange,118
+2002.0,Dark Purple,1
+2002.0,Dark Red,90
+2002.0,Dark Tan,17
+2002.0,Dark Turquoise,68
+2002.0,Earth Orange,11
+2002.0,Flat Dark Gold,28
+2002.0,Glitter Trans-Clear,2
+2002.0,Glitter Trans-Dark Pink,5
+2002.0,Glow In Dark Opaque,16
+2002.0,Green,2081
+2002.0,Light Blue,15
+2002.0,Light Bluish Gray,1715
+2002.0,Light Gray,10772
+2002.0,Light Green,5
+2002.0,Light Orange,8
+2002.0,Light Salmon,2
+2002.0,Light Turquoise,4
+2002.0,Light Violet,3
+2002.0,Light Yellow,87
+2002.0,Lime,197
+2002.0,Magenta,5
+2002.0,Medium Blue,252
+2002.0,Medium Bluish Violet,3
+2002.0,Medium Dark Pink,62
+2002.0,Medium Green,7
+2002.0,Medium Lime,3
+2002.0,Medium Orange,95
+2002.0,Metallic Green,2
+2002.0,Metallic Silver,10
+2002.0,Nougat,20
+2002.0,Orange,718
+2002.0,Pearl Dark Gray,88
+2002.0,Pearl Light Gold,7
+2002.0,Pearl Light Gray,423
+2002.0,Pearl Lime,8
+2002.0,Pearl Sand Blue,91
+2002.0,Pearl Very Light Gray,11
+2002.0,Pink,19
+2002.0,Purple,182
+2002.0,Red,4929
+2002.0,Reddish Gold,8
+2002.0,Sand Blue,130
+2002.0,Sand Green,613
+2002.0,Sand Purple,2
+2002.0,Sand Red,4
+2002.0,Tan,1316
+2002.0,Trans-Brown,79
+2002.0,Trans-Clear,325
+2002.0,Trans-Dark Blue,145
+2002.0,Trans-Dark Pink,74
+2002.0,Trans-Green,121
+2002.0,Trans-Light Blue,194
+2002.0,Trans-Medium Blue,40
+2002.0,Trans-Neon Green,275
+2002.0,Trans-Neon Orange,212
+2002.0,Trans-Neon Red,1
+2002.0,Trans-Neon Yellow,2
+2002.0,Trans-Orange,2
+2002.0,Trans-Purple,22
+2002.0,Trans-Red,282
+2002.0,Trans-Yellow,124
+2002.0,Two-tone Gold,6
+2002.0,Two-tone Silver,6
+2002.0,Very Light Orange,1
+2002.0,Violet,48
+2002.0,White,4369
+2002.0,Yellow,3178
+2002.0,[No Color/Any Color],146
+2003.0,Aqua,52
+2003.0,Black,17697
+2003.0,Blue,4282
+2003.0,Bright Green,195
+2003.0,Bright Light Orange,4
+2003.0,Bright Pink,8
+2003.0,Bright Reddish Orange,14
+2003.0,Brown,1401
+2003.0,Chrome Antique Brass,4
+2003.0,Chrome Gold,439
+2003.0,Chrome Red,2
+2003.0,Chrome Silver,119
+2003.0,Clikits Yellow,6
+2003.0,Dark Blue,220
+2003.0,Dark Bluish Gray,1781
+2003.0,Dark Gray,5697
+2003.0,Dark Orange,214
+2003.0,Dark Pink,64
+2003.0,Dark Red,146
+2003.0,Dark Tan,11
+2003.0,Dark Turquoise,434
+2003.0,Duplo Blue,4
+2003.0,Duplo Dark Purple,1
+2003.0,Duplo Medium Green,1
+2003.0,Duplo Turquoise,2
+2003.0,Earth Orange,6
+2003.0,Flat Dark Gold,42
+2003.0,Glitter Trans-Dark Pink,1
+2003.0,Glow In Dark Opaque,6
+2003.0,Green,2150
+2003.0,Light Blue,4
+2003.0,Light Bluish Gray,2076
+2003.0,Light Gray,10408
+2003.0,Light Green,9
+2003.0,Light Lilac,12
+2003.0,Light Orange,6
+2003.0,Light Purple,3
+2003.0,Light Turquoise,45
+2003.0,Light Yellow,16
+2003.0,Lime,238
+2003.0,Magenta,74
+2003.0,Medium Blue,267
+2003.0,Medium Bluish Violet,9
+2003.0,Medium Dark Pink,164
+2003.0,Medium Green,81
+2003.0,Medium Lime,51
+2003.0,Medium Orange,150
+2003.0,Metal,6
+2003.0,Metallic Silver,13
+2003.0,Milky White,20
+2003.0,Nougat,5
+2003.0,Orange,1370
+2003.0,Pearl Black,14
+2003.0,Pearl Blue,12
+2003.0,Pearl Brown,12
+2003.0,Pearl Dark Gray,73
+2003.0,Pearl Green,13
+2003.0,Pearl Light Gray,645
+2003.0,Pearl Lime,30
+2003.0,Pearl Red,12
+2003.0,Pearl Sand Blue,26
+2003.0,Pearl Very Light Gray,15
+2003.0,Pearl White,12
+2003.0,Pink,43
+2003.0,Purple,123
+2003.0,Red,5455
+2003.0,Reddish Brown,29
+2003.0,Reddish Gold,25
+2003.0,Sand Blue,148
+2003.0,Sand Green,205
+2003.0,Sand Purple,1
+2003.0,Sand Red,4
+2003.0,Sky Blue,31
+2003.0,Tan,2231
+2003.0,Trans-Brown,264
+2003.0,Trans-Clear,426
+2003.0,Trans-Dark Blue,436
+2003.0,Trans-Dark Pink,437
+2003.0,Trans-Fire Yellow,3
+2003.0,Trans-Flame Yellowish Orange,89
+2003.0,Trans-Green,212
+2003.0,Trans-Light Blue,204
+2003.0,Trans-Light Bright Green,44
+2003.0,Trans-Medium Blue,42
+2003.0,Trans-Medium Purple,41
+2003.0,Trans-Neon Green,251
+2003.0,Trans-Neon Orange,277
+2003.0,Trans-Neon Red,2
+2003.0,Trans-Neon Yellow,63
+2003.0,Trans-Orange,65
+2003.0,Trans-Pink,129
+2003.0,Trans-Purple,10
+2003.0,Trans-Red,487
+2003.0,Trans-Very Lt Blue,94
+2003.0,Trans-Yellow,277
+2003.0,Very Light Gray,17
+2003.0,Violet,59
+2003.0,White,10025
+2003.0,Yellow,4041
+2003.0,[No Color/Any Color],340
+2004.0,Aqua,81
+2004.0,Black,12297
+2004.0,Blue,4839
+2004.0,Bright Green,421
+2004.0,Bright Light Blue,23
+2004.0,Bright Light Orange,28
+2004.0,Bright Light Yellow,31
+2004.0,Bright Pink,86
+2004.0,Bright Reddish Orange,2
+2004.0,Brown,384
+2004.0,Chrome Antique Brass,6
+2004.0,Chrome Gold,329
+2004.0,Chrome Silver,132
+2004.0,Clikits Yellow,16
+2004.0,Copper,20
+2004.0,Curry,9
+2004.0,Dark Blue,342
+2004.0,Dark Blue-Violet,5
+2004.0,Dark Bluish Gray,5310
+2004.0,Dark Gray,785
+2004.0,Dark Green,168
+2004.0,Dark Nougat,5
+2004.0,Dark Orange,276
+2004.0,Dark Pink,134
+2004.0,Dark Purple,250
+2004.0,Dark Red,893
+2004.0,Dark Tan,66
+2004.0,Dark Turquoise,396
+2004.0,Duplo Blue,2
+2004.0,Duplo Light Green,1
+2004.0,Duplo Medium Blue,1
+2004.0,Earth Orange,15
+2004.0,Flat Dark Gold,38
+2004.0,Glitter Trans-Clear,5
+2004.0,Glitter Trans-Dark Pink,17
+2004.0,Glitter Trans-Purple,4
+2004.0,Glow In Dark Opaque,118
+2004.0,Green,2200
+2004.0,Light Bluish Gray,8143
+2004.0,Light Brown,46
+2004.0,Light Gray,1336
+2004.0,Light Green,1
+2004.0,Light Lilac,25
+2004.0,Light Lime,4
+2004.0,Light Nougat,3
+2004.0,Light Orange,3
+2004.0,Light Purple,38
+2004.0,Light Turquoise,1
+2004.0,Light Yellow,4
+2004.0,Lime,334
+2004.0,Maersk Blue,166
+2004.0,Magenta,77
+2004.0,Medium Blue,587
+2004.0,Medium Bluish Violet,9
+2004.0,Medium Dark Pink,102
+2004.0,Medium Green,117
+2004.0,Medium Lime,54
+2004.0,Medium Orange,64
+2004.0,Medium Violet,4
+2004.0,Metal,2
+2004.0,Metallic Silver,11
+2004.0,Nougat,18
+2004.0,Orange,1594
+2004.0,Pearl Black,2
+2004.0,Pearl Brown,1
+2004.0,Pearl Dark Gray,46
+2004.0,Pearl Gold,4
+2004.0,Pearl Light Gray,536
+2004.0,Pearl Lime,3
+2004.0,Pearl Red,3
+2004.0,Pearl Sand Blue,24
+2004.0,Pearl Very Light Gray,5
+2004.0,Pearl White,1
+2004.0,Pink,22
+2004.0,Purple,45
+2004.0,Red,5940
+2004.0,Reddish Brown,1228
+2004.0,Reddish Gold,16
+2004.0,Reddish Lilac,3
+2004.0,Royal Blue,224
+2004.0,Rust Orange,1
+2004.0,Sand Blue,571
+2004.0,Sand Green,335
+2004.0,Sand Red,25
+2004.0,Sky Blue,65
+2004.0,Tan,2147
+2004.0,Trans-Brown,264
+2004.0,Trans-Clear,573
+2004.0,Trans-Dark Blue,598
+2004.0,Trans-Dark Pink,476
+2004.0,Trans-Flame Yellowish Orange,67
+2004.0,Trans-Green,317
+2004.0,Trans-Light Blue,459
+2004.0,Trans-Light Bright Green,41
+2004.0,Trans-Medium Blue,92
+2004.0,Trans-Medium Purple,97
+2004.0,Trans-Neon Green,222
+2004.0,Trans-Neon Orange,286
+2004.0,Trans-Neon Red,14
+2004.0,Trans-Neon Yellow,91
+2004.0,Trans-Orange,241
+2004.0,Trans-Pink,82
+2004.0,Trans-Purple,28
+2004.0,Trans-Red,636
+2004.0,Trans-Very Lt Blue,77
+2004.0,Trans-Yellow,201
+2004.0,Very Light Bluish Gray,35
+2004.0,Very Light Gray,4
+2004.0,Violet,6
+2004.0,Warm Yellowish Orange,20
+2004.0,White,8382
+2004.0,Yellow,4609
+2004.0,[No Color/Any Color],322
+2005.0,Aqua,80
+2005.0,Black,18729
+2005.0,Blue,4537
+2005.0,Bright Green,283
+2005.0,Bright Light Blue,72
+2005.0,Bright Light Orange,213
+2005.0,Bright Light Yellow,14
+2005.0,Bright Pink,92
+2005.0,Brown,233
+2005.0,Chrome Antique Brass,18
+2005.0,Chrome Gold,38
+2005.0,Chrome Silver,34
+2005.0,Copper,16
+2005.0,Curry,1
+2005.0,Dark Blue,1208
+2005.0,Dark Blue-Violet,4
+2005.0,Dark Bluish Gray,10158
+2005.0,Dark Gray,173
+2005.0,Dark Green,234
+2005.0,Dark Orange,388
+2005.0,Dark Pink,111
+2005.0,Dark Purple,62
+2005.0,Dark Red,1813
+2005.0,Dark Tan,102
+2005.0,Dark Turquoise,12
+2005.0,Earth Orange,12
+2005.0,Flat Dark Gold,32
+2005.0,Glitter Milky White,2
+2005.0,Glitter Trans-Clear,12
+2005.0,Glitter Trans-Dark Pink,21
+2005.0,Glitter Trans-Medium Purple,6
+2005.0,Glitter Trans-Pink,2
+2005.0,Glow In Dark Opaque,22
+2005.0,Glow In Dark Trans,22
+2005.0,Green,2193
+2005.0,Light Bluish Gray,10422
+2005.0,Light Brown,73
+2005.0,Light Gray,230
+2005.0,Light Green,23
+2005.0,Light Lilac,9
+2005.0,Light Lime,22
+2005.0,Light Nougat,10
+2005.0,Light Purple,47
+2005.0,Light Yellow,3
+2005.0,Lime,445
+2005.0,Magenta,49
+2005.0,Medium Blue,763
+2005.0,Medium Dark Pink,3
+2005.0,Medium Green,9
+2005.0,Medium Lime,12
+2005.0,Medium Orange,16
+2005.0,Medium Violet,3
+2005.0,Metal,1
+2005.0,Metallic Gold,16
+2005.0,Metallic Silver,65
+2005.0,Nougat,25
+2005.0,Orange,1331
+2005.0,Pastel Blue,173
+2005.0,Pearl Black,6
+2005.0,Pearl Blue,4
+2005.0,Pearl Brown,13
+2005.0,Pearl Dark Gray,51
+2005.0,Pearl Gold,51
+2005.0,Pearl Green,5
+2005.0,Pearl Light Gray,968
+2005.0,Pearl Red,3
+2005.0,Pearl Sand Blue,9
+2005.0,Pearl White,13
+2005.0,Pink,9
+2005.0,Purple,14
+2005.0,Red,6867
+2005.0,Reddish Brown,4035
+2005.0,Reddish Gold,38
+2005.0,Reddish Lilac,46
+2005.0,Royal Blue,63
+2005.0,Rust Orange,2
+2005.0,Sand Blue,188
+2005.0,Sand Green,79
+2005.0,Sky Blue,32
+2005.0,Speckle Black-Silver,42
+2005.0,Tan,3169
+2005.0,Trans-Brown,269
+2005.0,Trans-Clear,466
+2005.0,Trans-Dark Blue,752
+2005.0,Trans-Dark Pink,246
+2005.0,Trans-Fire Yellow,4
+2005.0,Trans-Flame Yellowish Orange,29
+2005.0,Trans-Green,98
+2005.0,Trans-Light Blue,215
+2005.0,Trans-Light Bright Green,27
+2005.0,Trans-Light Green,33
+2005.0,Trans-Light Purple,59
+2005.0,Trans-Light Royal Blue,90
+2005.0,Trans-Medium Blue,38
+2005.0,Trans-Medium Purple,113
+2005.0,Trans-Neon Green,154
+2005.0,Trans-Neon Orange,333
+2005.0,Trans-Neon Yellow,22
+2005.0,Trans-Orange,171
+2005.0,Trans-Pink,128
+2005.0,Trans-Purple,36
+2005.0,Trans-Red,365
+2005.0,Trans-Very Lt Blue,48
+2005.0,Trans-Yellow,210
+2005.0,Very Light Bluish Gray,37
+2005.0,White,7229
+2005.0,Yellow,5750
+2005.0,[No Color/Any Color],275
+2006.0,Aqua,31
+2006.0,Black,21962
+2006.0,Blue,5648
+2006.0,Bright Green,281
+2006.0,Bright Light Blue,17
+2006.0,Bright Light Orange,119
+2006.0,Bright Light Yellow,27
+2006.0,Bright Pink,62
+2006.0,Brown,60
+2006.0,Chrome Blue,1
+2006.0,Chrome Gold,21
+2006.0,Chrome Pink,3
+2006.0,Chrome Silver,92
+2006.0,Clikits Pink,32
+2006.0,Copper,5
+2006.0,Dark Blue,267
+2006.0,Dark Blue-Violet,1
+2006.0,Dark Bluish Gray,10365
+2006.0,Dark Gray,61
+2006.0,Dark Green,307
+2006.0,Dark Orange,88
+2006.0,Dark Pink,53
+2006.0,Dark Purple,39
+2006.0,Dark Red,662
+2006.0,Dark Tan,44
+2006.0,Flat Dark Gold,15
+2006.0,Glitter Trans-Dark Pink,21
+2006.0,Glitter Trans-Purple,7
+2006.0,Glow In Dark Opaque,7
+2006.0,Glow In Dark Trans,7
+2006.0,Green,2095
+2006.0,Light Bluish Gray,13636
+2006.0,Light Brown,50
+2006.0,Light Gray,80
+2006.0,Light Lilac,3
+2006.0,Light Lime,1
+2006.0,Light Purple,6
+2006.0,Light Tan,1
+2006.0,Lime,549
+2006.0,Maersk Blue,4
+2006.0,Magenta,62
+2006.0,Medium Blue,220
+2006.0,Medium Orange,6
+2006.0,Metal,1
+2006.0,Metallic Gold,4
+2006.0,Metallic Silver,222
+2006.0,Nougat,4
+2006.0,Orange,846
+2006.0,Pastel Blue,328
+2006.0,Pearl Black,10
+2006.0,Pearl Blue,4
+2006.0,Pearl Brown,9
+2006.0,Pearl Dark Gray,75
+2006.0,Pearl Gold,206
+2006.0,Pearl Green,3
+2006.0,Pearl Light Gray,900
+2006.0,Pearl Red,6
+2006.0,Pearl Sand Blue,2
+2006.0,Pearl White,19
+2006.0,Red,8485
+2006.0,Reddish Brown,1883
+2006.0,Reddish Gold,2
+2006.0,Sand Blue,59
+2006.0,Sand Green,50
+2006.0,Speckle Black-Copper,6
+2006.0,Speckle Black-Silver,34
+2006.0,Speckle DBGray-Silver,8
+2006.0,Tan,1110
+2006.0,Trans-Brown,536
+2006.0,Trans-Clear,672
+2006.0,Trans-Dark Blue,385
+2006.0,Trans-Dark Pink,107
+2006.0,Trans-Fire Yellow,34
+2006.0,Trans-Flame Yellowish Orange,29
+2006.0,Trans-Green,72
+2006.0,Trans-Light Blue,164
+2006.0,Trans-Light Bright Green,17
+2006.0,Trans-Light Green,9
+2006.0,Trans-Light Purple,8
+2006.0,Trans-Medium Blue,61
+2006.0,Trans-Medium Purple,7
+2006.0,Trans-Neon Green,452
+2006.0,Trans-Neon Orange,262
+2006.0,Trans-Orange,170
+2006.0,Trans-Pink,95
+2006.0,Trans-Purple,19
+2006.0,Trans-Red,626
+2006.0,Trans-Very Lt Blue,13
+2006.0,Trans-Yellow,385
+2006.0,Very Light Bluish Gray,95
+2006.0,White,8702
+2006.0,Yellow,4651
+2006.0,[No Color/Any Color],157
+2007.0,Black,17930
+2007.0,Blue,4226
+2007.0,Bright Green,281
+2007.0,Bright Light Blue,15
+2007.0,Bright Light Orange,70
+2007.0,Bright Light Yellow,12
+2007.0,Bright Pink,30
+2007.0,Chrome Gold,91
+2007.0,Chrome Pink,2
+2007.0,Chrome Silver,30
+2007.0,Copper,2
+2007.0,Dark Blue,918
+2007.0,Dark Bluish Gray,15475
+2007.0,Dark Green,140
+2007.0,Dark Orange,90
+2007.0,Dark Pink,115
+2007.0,Dark Purple,9
+2007.0,Dark Red,1197
+2007.0,Dark Tan,43
+2007.0,Glitter Trans-Clear,2
+2007.0,Glitter Trans-Dark Pink,70
+2007.0,Glow In Dark Trans,56
+2007.0,Green,1526
+2007.0,Light Bluish Gray,16366
+2007.0,Light Gray,1
+2007.0,Light Lime,2
+2007.0,Lime,688
+2007.0,Magenta,22
+2007.0,Medium Blue,714
+2007.0,Medium Orange,4
+2007.0,Medium Violet,3
+2007.0,Metallic Gold,15
+2007.0,Metallic Silver,100
+2007.0,Milky White,2
+2007.0,Nougat,10
+2007.0,Orange,687
+2007.0,Pearl Dark Gray,34
+2007.0,Pearl Gold,196
+2007.0,Pearl Light Gray,764
+2007.0,Red,9042
+2007.0,Reddish Brown,1839
+2007.0,Reddish Lilac,1
+2007.0,Sand Blue,1
+2007.0,Sand Green,75
+2007.0,Sky Blue,4
+2007.0,Speckle Black-Silver,8
+2007.0,Tan,2475
+2007.0,Trans-Brown,255
+2007.0,Trans-Clear,611
+2007.0,Trans-Dark Blue,704
+2007.0,Trans-Dark Pink,98
+2007.0,Trans-Green,197
+2007.0,Trans-Light Blue,273
+2007.0,Trans-Medium Blue,56
+2007.0,Trans-Neon Green,298
+2007.0,Trans-Neon Orange,160
+2007.0,Trans-Orange,295
+2007.0,Trans-Purple,4
+2007.0,Trans-Red,588
+2007.0,Trans-Yellow,413
+2007.0,Very Light Bluish Gray,3
+2007.0,White,9175
+2007.0,Yellow,4995
+2007.0,[No Color/Any Color],101
+2008.0,Black,19501
+2008.0,Blue,5326
+2008.0,Bright Green,337
+2008.0,Bright Light Blue,11
+2008.0,Bright Light Orange,96
+2008.0,Bright Pink,88
+2008.0,Chrome Black,2
+2008.0,Chrome Gold,28
+2008.0,Chrome Silver,19
+2008.0,Copper,13
+2008.0,Dark Blue,1593
+2008.0,Dark Bluish Gray,12824
+2008.0,Dark Brown,266
+2008.0,Dark Green,634
+2008.0,Dark Orange,59
+2008.0,Dark Pink,126
+2008.0,Dark Purple,32
+2008.0,Dark Red,1335
+2008.0,Dark Tan,339
+2008.0,Glitter Trans-Clear,1
+2008.0,Glitter Trans-Dark Pink,21
+2008.0,Glow In Dark Trans,27
+2008.0,Green,1560
+2008.0,Light Bluish Gray,16683
+2008.0,Light Nougat,1
+2008.0,Lime,790
+2008.0,Magenta,73
+2008.0,Medium Blue,693
+2008.0,Metallic Copper,32
+2008.0,Metallic Gold,51
+2008.0,Metallic Silver,328
+2008.0,Milky White,7
+2008.0,Nougat,9
+2008.0,Orange,1285
+2008.0,Pearl Dark Gray,44
+2008.0,Pearl Gold,173
+2008.0,Pearl Light Gray,803
+2008.0,Red,6969
+2008.0,Reddish Brown,2393
+2008.0,Sand Green,524
+2008.0,Speckle Black-Silver,24
+2008.0,Tan,2812
+2008.0,Trans-Brown,310
+2008.0,Trans-Clear,1072
+2008.0,Trans-Dark Blue,422
+2008.0,Trans-Dark Pink,28
+2008.0,Trans-Green,185
+2008.0,Trans-Light Blue,292
+2008.0,Trans-Medium Blue,7
+2008.0,Trans-Neon Green,481
+2008.0,Trans-Neon Orange,232
+2008.0,Trans-Orange,297
+2008.0,Trans-Purple,4
+2008.0,Trans-Red,841
+2008.0,Trans-Yellow,348
+2008.0,Very Light Bluish Gray,9
+2008.0,Violet,5
+2008.0,White,15037
+2008.0,Yellow,4298
+2008.0,[No Color/Any Color],172
+2009.0,Black,18543
+2009.0,Blue,5582
+2009.0,Bright Green,293
+2009.0,Bright Light Blue,6
+2009.0,Bright Light Orange,122
+2009.0,Bright Light Yellow,5
+2009.0,Bright Pink,85
+2009.0,Chrome Black,1
+2009.0,Chrome Gold,39
+2009.0,Chrome Red,2
+2009.0,Chrome Silver,29
+2009.0,Dark Blue,947
+2009.0,Dark Bluish Gray,10263
+2009.0,Dark Brown,330
+2009.0,Dark Green,671
+2009.0,Dark Orange,76
+2009.0,Dark Pink,61
+2009.0,Dark Purple,3
+2009.0,Dark Red,1240
+2009.0,Dark Tan,580
+2009.0,Flat Silver,24
+2009.0,Glow In Dark Trans,2
+2009.0,Green,1808
+2009.0,Light Bluish Gray,14347
+2009.0,Light Lilac,1
+2009.0,Lime,1882
+2009.0,Magenta,20
+2009.0,Medium Blue,518
+2009.0,Metallic Copper,6
+2009.0,Metallic Gold,55
+2009.0,Metallic Silver,154
+2009.0,Nougat,1
+2009.0,Orange,1570
+2009.0,Pearl Blue,1
+2009.0,Pearl Dark Gray,29
+2009.0,Pearl Gold,475
+2009.0,Pearl Light Gray,471
+2009.0,Red,7653
+2009.0,Reddish Brown,3894
+2009.0,Sand Green,10
+2009.0,Speckle Black-Silver,2
+2009.0,Tan,3951
+2009.0,Trans-Brown,232
+2009.0,Trans-Clear,1148
+2009.0,Trans-Dark Blue,395
+2009.0,Trans-Dark Pink,21
+2009.0,Trans-Green,227
+2009.0,Trans-Light Blue,180
+2009.0,Trans-Medium Blue,13
+2009.0,Trans-Neon Green,158
+2009.0,Trans-Neon Orange,233
+2009.0,Trans-Orange,476
+2009.0,Trans-Purple,34
+2009.0,Trans-Red,707
+2009.0,Trans-Yellow,414
+2009.0,Very Light Bluish Gray,78
+2009.0,White,9812
+2009.0,Yellow,5733
+2009.0,[No Color/Any Color],152
+2010.0,Black,19370
+2010.0,Blue,6411
+2010.0,Bright Green,292
+2010.0,Bright Light Blue,16
+2010.0,Bright Light Orange,112
+2010.0,Bright Light Yellow,7
+2010.0,Bright Pink,175
+2010.0,Chrome Gold,14
+2010.0,Chrome Silver,65
+2010.0,Dark Blue,728
+2010.0,Dark Bluish Gray,12366
+2010.0,Dark Brown,662
+2010.0,Dark Green,543
+2010.0,Dark Orange,153
+2010.0,Dark Pink,367
+2010.0,Dark Purple,102
+2010.0,Dark Red,948
+2010.0,Dark Tan,682
+2010.0,Flat Silver,188
+2010.0,Glitter Trans-Dark Pink,30
+2010.0,Glow In Dark Trans,4
+2010.0,Green,2740
+2010.0,Light Bluish Gray,16560
+2010.0,Light Lilac,1
+2010.0,Light Nougat,4
+2010.0,Lime,1966
+2010.0,Magenta,141
+2010.0,Medium Blue,1273
+2010.0,Medium Nougat,345
+2010.0,Metallic Gold,16
+2010.0,Metallic Silver,132
+2010.0,Nougat,13
+2010.0,Olive Green,1
+2010.0,Orange,1760
+2010.0,Pastel Blue,166
+2010.0,Pearl Dark Gray,40
+2010.0,Pearl Gold,894
+2010.0,Pearl Light Gray,284
+2010.0,Pearl Titanium,12
+2010.0,Red,9277
+2010.0,Reddish Brown,3938
+2010.0,Sand Blue,1
+2010.0,Sand Green,177
+2010.0,Speckle Black-Silver,3
+2010.0,Tan,8091
+2010.0,Trans-Bright Green,60
+2010.0,Trans-Brown,370
+2010.0,Trans-Clear,1369
+2010.0,Trans-Dark Blue,365
+2010.0,Trans-Dark Pink,110
+2010.0,Trans-Green,241
+2010.0,Trans-Light Blue,375
+2010.0,Trans-Medium Blue,9
+2010.0,Trans-Neon Green,62
+2010.0,Trans-Neon Orange,251
+2010.0,Trans-Orange,452
+2010.0,Trans-Purple,82
+2010.0,Trans-Red,979
+2010.0,Trans-Yellow,474
+2010.0,Very Light Bluish Gray,5
+2010.0,White,15166
+2010.0,Yellow,5978
+2010.0,[No Color/Any Color],180
+2011.0,Black,20087
+2011.0,Blue,4621
+2011.0,Bright Green,222
+2011.0,Bright Light Blue,16
+2011.0,Bright Light Orange,113
+2011.0,Bright Light Yellow,2
+2011.0,Bright Pink,149
+2011.0,Chrome Gold,62
+2011.0,Chrome Silver,32
+2011.0,Dark Azure,8
+2011.0,Dark Blue,564
+2011.0,Dark Bluish Gray,11845
+2011.0,Dark Brown,441
+2011.0,Dark Green,618
+2011.0,Dark Orange,246
+2011.0,Dark Pink,43
+2011.0,Dark Purple,525
+2011.0,Dark Red,2146
+2011.0,Dark Tan,1380
+2011.0,Flat Silver,373
+2011.0,Glow In Dark Trans,26
+2011.0,Glow in Dark White,25
+2011.0,Green,1554
+2011.0,Lavender,1
+2011.0,Light Aqua,5
+2011.0,Light Bluish Gray,17184
+2011.0,Light Lilac,1
+2011.0,Light Nougat,1
+2011.0,Lime,866
+2011.0,Magenta,2
+2011.0,Medium Blue,494
+2011.0,Medium Lavender,6
+2011.0,Medium Nougat,35
+2011.0,Metallic Copper,2
+2011.0,Metallic Gold,40
+2011.0,Metallic Silver,164
+2011.0,Nougat,2
+2011.0,Orange,926
+2011.0,Pastel Blue,235
+2011.0,Pearl Gold,1068
+2011.0,Pearl Light Gray,16
+2011.0,Pearl Titanium,176
+2011.0,Red,7772
+2011.0,Reddish Brown,4975
+2011.0,Sand Blue,418
+2011.0,Sand Green,365
+2011.0,Speckle Black-Gold,4
+2011.0,Speckle Black-Silver,28
+2011.0,Tan,4250
+2011.0,Trans-Bright Green,10
+2011.0,Trans-Brown,202
+2011.0,Trans-Clear,1383
+2011.0,Trans-Dark Blue,421
+2011.0,Trans-Dark Pink,7
+2011.0,Trans-Green,181
+2011.0,Trans-Light Blue,380
+2011.0,Trans-Medium Blue,56
+2011.0,Trans-Neon Green,144
+2011.0,Trans-Neon Orange,225
+2011.0,Trans-Orange,386
+2011.0,Trans-Purple,12
+2011.0,Trans-Red,682
+2011.0,Trans-Yellow,455
+2011.0,White,10569
+2011.0,Yellow,4173
+2011.0,[No Color/Any Color],313
+2012.0,Black,17799
+2012.0,Blue,4758
+2012.0,Bright Green,549
+2012.0,Bright Light Blue,58
+2012.0,Bright Light Orange,253
+2012.0,Bright Light Yellow,22
+2012.0,Bright Pink,576
+2012.0,Chrome Gold,69
+2012.0,Chrome Silver,3
+2012.0,Dark Azure,18
+2012.0,Dark Blue,805
+2012.0,Dark Bluish Gray,12890
+2012.0,Dark Brown,792
+2012.0,Dark Green,1082
+2012.0,Dark Orange,648
+2012.0,Dark Pink,398
+2012.0,Dark Purple,396
+2012.0,Dark Red,1573
+2012.0,Dark Tan,1759
+2012.0,Flat Silver,639
+2012.0,Glitter Trans-Dark Pink,1
+2012.0,Glow in Dark White,54
+2012.0,Green,2495
+2012.0,Lavender,25
+2012.0,Light Aqua,79
+2012.0,Light Bluish Gray,19516
+2012.0,Light Nougat,5
+2012.0,Lime,1812
+2012.0,Magenta,120
+2012.0,Medium Azure,250
+2012.0,Medium Blue,1065
+2012.0,Medium Lavender,255
+2012.0,Medium Nougat,237
+2012.0,Metallic Copper,4
+2012.0,Metallic Gold,19
+2012.0,Metallic Silver,217
+2012.0,Nougat,1
+2012.0,Olive Green,73
+2012.0,Orange,1547
+2012.0,Pearl Gold,1199
+2012.0,Pearl Titanium,305
+2012.0,Red,6805
+2012.0,Reddish Brown,5361
+2012.0,Sand Blue,28
+2012.0,Sand Green,592
+2012.0,Speckle Black-Silver,8
+2012.0,Tan,4032
+2012.0,Trans-Bright Green,80
+2012.0,Trans-Brown,389
+2012.0,Trans-Clear,1305
+2012.0,Trans-Dark Blue,348
+2012.0,Trans-Dark Pink,56
+2012.0,Trans-Green,265
+2012.0,Trans-Light Blue,580
+2012.0,Trans-Medium Blue,68
+2012.0,Trans-Neon Green,289
+2012.0,Trans-Neon Orange,202
+2012.0,Trans-Orange,669
+2012.0,Trans-Purple,41
+2012.0,Trans-Red,737
+2012.0,Trans-Yellow,404
+2012.0,White,10088
+2012.0,Yellow,4331
+2012.0,Yellowish Green,9
+2012.0,[No Color/Any Color],413
+2013.0,Black,23549
+2013.0,Blue,5764
+2013.0,Bright Green,441
+2013.0,Bright Light Blue,40
+2013.0,Bright Light Orange,971
+2013.0,Bright Light Yellow,49
+2013.0,Bright Pink,457
+2013.0,Chrome Gold,328
+2013.0,Chrome Silver,27
+2013.0,Dark Azure,316
+2013.0,Dark Blue,832
+2013.0,Dark Bluish Gray,12908
+2013.0,Dark Brown,865
+2013.0,Dark Green,771
+2013.0,Dark Orange,218
+2013.0,Dark Pink,405
+2013.0,Dark Purple,285
+2013.0,Dark Red,1739
+2013.0,Dark Tan,4277
+2013.0,Flat Silver,902
+2013.0,Glow in Dark White,19
+2013.0,Green,2470
+2013.0,Lavender,29
+2013.0,Light Aqua,18
+2013.0,Light Bluish Gray,18679
+2013.0,Light Nougat,21
+2013.0,Lime,1601
+2013.0,Magenta,184
+2013.0,Medium Azure,279
+2013.0,Medium Blue,519
+2013.0,Medium Lavender,164
+2013.0,Medium Nougat,193
+2013.0,Metallic Gold,37
+2013.0,Metallic Silver,224
+2013.0,Nougat,1
+2013.0,Olive Green,506
+2013.0,Orange,1523
+2013.0,Pearl Gold,1112
+2013.0,Pearl Titanium,265
+2013.0,Red,8207
+2013.0,Reddish Brown,5633
+2013.0,Sand Blue,1
+2013.0,Sand Green,48
+2013.0,Speckle Black-Silver,1
+2013.0,Tan,5420
+2013.0,Trans-Bright Green,70
+2013.0,Trans-Brown,980
+2013.0,Trans-Clear,1339
+2013.0,Trans-Dark Blue,724
+2013.0,Trans-Dark Pink,123
+2013.0,Trans-Green,186
+2013.0,Trans-Light Blue,1555
+2013.0,Trans-Medium Blue,45
+2013.0,Trans-Neon Green,259
+2013.0,Trans-Neon Orange,106
+2013.0,Trans-Orange,634
+2013.0,Trans-Purple,106
+2013.0,Trans-Red,927
+2013.0,Trans-Yellow,600
+2013.0,Very Light Bluish Gray,14
+2013.0,White,12883
+2013.0,Yellow,4931
+2013.0,[No Color/Any Color],342
+2014.0,Black,27127
+2014.0,Blue,6906
+2014.0,Bright Green,628
+2014.0,Bright Light Blue,76
+2014.0,Bright Light Orange,817
+2014.0,Bright Light Yellow,105
+2014.0,Bright Pink,807
+2014.0,Chrome Gold,22
+2014.0,Chrome Silver,32
+2014.0,Dark Azure,160
+2014.0,Dark Blue,857
+2014.0,Dark Bluish Gray,15765
+2014.0,Dark Brown,778
+2014.0,Dark Green,722
+2014.0,Dark Orange,493
+2014.0,Dark Pink,610
+2014.0,Dark Purple,575
+2014.0,Dark Red,1057
+2014.0,Dark Tan,1416
+2014.0,Flat Silver,1674
+2014.0,Glow in Dark White,137
+2014.0,Green,2342
+2014.0,Lavender,52
+2014.0,Light Aqua,81
+2014.0,Light Bluish Gray,24098
+2014.0,Light Nougat,12
+2014.0,Lime,1680
+2014.0,Magenta,567
+2014.0,Medium Azure,799
+2014.0,Medium Blue,618
+2014.0,Medium Lavender,374
+2014.0,Medium Nougat,512
+2014.0,Metallic Gold,8
+2014.0,Metallic Silver,174
+2014.0,Nougat,32
+2014.0,Olive Green,1066
+2014.0,Orange,1871
+2014.0,Pearl Gold,1829
+2014.0,Pearl Titanium,231
+2014.0,Red,7996
+2014.0,Reddish Brown,6956
+2014.0,Sand Blue,142
+2014.0,Sand Green,288
+2014.0,Tan,5898
+2014.0,Trans-Bright Green,226
+2014.0,Trans-Brown,396
+2014.0,Trans-Clear,1669
+2014.0,Trans-Dark Blue,488
+2014.0,Trans-Dark Pink,88
+2014.0,Trans-Green,243
+2014.0,Trans-Light Blue,1894
+2014.0,Trans-Medium Blue,35
+2014.0,Trans-Neon Green,204
+2014.0,Trans-Neon Orange,252
+2014.0,Trans-Orange,957
+2014.0,Trans-Purple,21
+2014.0,Trans-Red,1437
+2014.0,Trans-Yellow,761
+2014.0,White,13318
+2014.0,Yellow,5103
+2014.0,Yellowish Green,14
+2014.0,[No Color/Any Color],328
+2015.0,Black,28463
+2015.0,Blue,6721
+2015.0,Bright Green,762
+2015.0,Bright Light Blue,103
+2015.0,Bright Light Orange,1314
+2015.0,Bright Light Yellow,130
+2015.0,Bright Pink,621
+2015.0,Chrome Gold,14
+2015.0,Chrome Silver,11
+2015.0,Dark Azure,162
+2015.0,Dark Blue,1976
+2015.0,Dark Bluish Gray,18471
+2015.0,Dark Brown,923
+2015.0,Dark Green,1309
+2015.0,Dark Orange,676
+2015.0,Dark Pink,532
+2015.0,Dark Purple,1138
+2015.0,Dark Red,1937
+2015.0,Dark Tan,2220
+2015.0,Flat Silver,1839
+2015.0,Glitter Trans-Clear,4
+2015.0,Glitter Trans-Light Blue,6
+2015.0,Glitter Trans-Neon Green,7
+2015.0,Glitter Trans-Purple,16
+2015.0,Glow in Dark White,37
+2015.0,Green,2437
+2015.0,Lavender,331
+2015.0,Light Aqua,120
+2015.0,Light Bluish Gray,25306
+2015.0,Light Nougat,9
+2015.0,Lime,1422
+2015.0,Magenta,835
+2015.0,Medium Azure,1124
+2015.0,Medium Blue,801
+2015.0,Medium Lavender,698
+2015.0,Medium Nougat,568
+2015.0,Metallic Gold,36
+2015.0,Metallic Silver,116
+2015.0,Nougat,1
+2015.0,Olive Green,285
+2015.0,Orange,1857
+2015.0,Pearl Gold,2237
+2015.0,Pearl Titanium,333
+2015.0,Red,7795
+2015.0,Reddish Brown,5221
+2015.0,Sand Blue,64
+2015.0,Sand Green,295
+2015.0,Tan,5523
+2015.0,Trans-Bright Green,315
+2015.0,Trans-Brown,621
+2015.0,Trans-Clear,2148
+2015.0,Trans-Dark Blue,499
+2015.0,Trans-Dark Pink,281
+2015.0,Trans-Green,265
+2015.0,Trans-Light Blue,2744
+2015.0,Trans-Medium Blue,81
+2015.0,Trans-Neon Green,438
+2015.0,Trans-Neon Orange,165
+2015.0,Trans-Orange,1347
+2015.0,Trans-Purple,160
+2015.0,Trans-Red,1277
+2015.0,Trans-Yellow,707
+2015.0,White,14695
+2015.0,Yellow,5056
+2015.0,Yellowish Green,348
+2015.0,[No Color/Any Color],254
+2016.0,Black,28123
+2016.0,Blue,7178
+2016.0,Bright Green,757
+2016.0,Bright Light Blue,125
+2016.0,Bright Light Orange,1218
+2016.0,Bright Light Yellow,76
+2016.0,Bright Pink,508
+2016.0,Chrome Gold,21
+2016.0,Chrome Silver,8
+2016.0,Dark Azure,851
+2016.0,Dark Blue,1237
+2016.0,Dark Bluish Gray,19854
+2016.0,Dark Brown,663
+2016.0,Dark Green,588
+2016.0,Dark Orange,546
+2016.0,Dark Pink,495
+2016.0,Dark Purple,842
+2016.0,Dark Red,1603
+2016.0,Dark Tan,2991
+2016.0,Flat Silver,1859
+2016.0,Glitter Trans-Clear,2
+2016.0,Glitter Trans-Dark Pink,1
+2016.0,Glitter Trans-Light Blue,5
+2016.0,Glitter Trans-Neon Green,2
+2016.0,Glitter Trans-Purple,14
+2016.0,Glow in Dark White,1
+2016.0,Green,2690
+2016.0,Lavender,406
+2016.0,Light Aqua,173
+2016.0,Light Bluish Gray,27192
+2016.0,Light Nougat,6
+2016.0,Lime,1615
+2016.0,Magenta,766
+2016.0,Medium Azure,1026
+2016.0,Medium Blue,414
+2016.0,Medium Lavender,460
+2016.0,Medium Nougat,1072
+2016.0,Metallic Gold,9
+2016.0,Metallic Silver,76
+2016.0,Nougat,8
+2016.0,Olive Green,179
+2016.0,Orange,1610
+2016.0,Pearl Dark Gray,1
+2016.0,Pearl Gold,2567
+2016.0,Pearl Titanium,227
+2016.0,Red,7688
+2016.0,Reddish Brown,6558
+2016.0,Sand Blue,399
+2016.0,Sand Green,461
+2016.0,Tan,8435
+2016.0,Trans-Bright Green,315
+2016.0,Trans-Brown,926
+2016.0,Trans-Clear,2277
+2016.0,Trans-Dark Blue,578
+2016.0,Trans-Dark Pink,387
+2016.0,Trans-Green,380
+2016.0,Trans-Light Blue,1349
+2016.0,Trans-Medium Blue,61
+2016.0,Trans-Neon Green,463
+2016.0,Trans-Neon Orange,735
+2016.0,Trans-Orange,1290
+2016.0,Trans-Purple,160
+2016.0,Trans-Red,1147
+2016.0,Trans-Yellow,679
+2016.0,White,15501
+2016.0,Yellow,6258
+2016.0,Yellowish Green,68
+2016.0,[No Color/Any Color],500
+2017.0,Black,33379
+2017.0,Blue,7919
+2017.0,Bright Green,591
+2017.0,Bright Light Blue,253
+2017.0,Bright Light Orange,1291
+2017.0,Bright Light Yellow,171
+2017.0,Bright Pink,379
+2017.0,Dark Azure,553
+2017.0,Dark Blue,2230
+2017.0,Dark Bluish Gray,23561
+2017.0,Dark Brown,1011
+2017.0,Dark Green,1150
+2017.0,Dark Orange,453
+2017.0,Dark Pink,499
+2017.0,Dark Purple,1206
+2017.0,Dark Red,1988
+2017.0,Dark Tan,3534
+2017.0,Flat Silver,2098
+2017.0,Glitter Trans-Light Blue,13
+2017.0,Glitter Trans-Neon Green,1
+2017.0,Glitter Trans-Purple,4
+2017.0,Glow in Dark White,18
+2017.0,Green,3299
+2017.0,Lavender,269
+2017.0,Light Aqua,209
+2017.0,Light Bluish Gray,36910
+2017.0,Light Nougat,10
+2017.0,Lime,1855
+2017.0,Magenta,857
+2017.0,Medium Azure,1346
+2017.0,Medium Blue,1143
+2017.0,Medium Lavender,377
+2017.0,Medium Nougat,1656
+2017.0,Metallic Gold,33
+2017.0,Metallic Silver,67
+2017.0,Nougat,12
+2017.0,Olive Green,527
+2017.0,Orange,2126
+2017.0,Pearl Copper,31
+2017.0,Pearl Gold,2202
+2017.0,Pearl Titanium,342
+2017.0,Red,9951
+2017.0,Reddish Brown,8068
+2017.0,Sand Blue,640
+2017.0,Sand Green,1675
+2017.0,Tan,8759
+2017.0,Trans-Bright Green,243
+2017.0,Trans-Brown,476
+2017.0,Trans-Clear,2645
+2017.0,Trans-Dark Blue,422
+2017.0,Trans-Dark Pink,290
+2017.0,Trans-Green,261
+2017.0,Trans-Light Blue,2086
+2017.0,Trans-Medium Blue,63
+2017.0,Trans-Neon Green,113
+2017.0,Trans-Neon Orange,524
+2017.0,Trans-Orange,916
+2017.0,Trans-Purple,263
+2017.0,Trans-Red,1351
+2017.0,Trans-Yellow,995
+2017.0,White,21554
+2017.0,Yellow,4931
+2017.0,Yellowish Green,241
+2017.0,[No Color/Any Color],1036
+2018.0,Black,36043
+2018.0,Blue,8490
+2018.0,Bright Green,749
+2018.0,Bright Light Blue,157
+2018.0,Bright Light Orange,1393
+2018.0,Bright Light Yellow,325
+2018.0,Bright Pink,905
+2018.0,Chrome Gold,15
+2018.0,Chrome Pink,1
+2018.0,Chrome Silver,28
+2018.0,Dark Azure,1536
+2018.0,Dark Blue,3184
+2018.0,Dark Bluish Gray,18548
+2018.0,Dark Brown,662
+2018.0,Dark Green,1293
+2018.0,Dark Orange,541
+2018.0,Dark Pink,827
+2018.0,Dark Purple,1095
+2018.0,Dark Red,2877
+2018.0,Dark Tan,4346
+2018.0,Dark Turquoise,626
+2018.0,Flat Silver,2060
+2018.0,Glitter Trans-Neon Green,2
+2018.0,Glitter Trans-Purple,5
+2018.0,Glow in Dark White,34
+2018.0,Green,3515
+2018.0,Lavender,333
+2018.0,Light Aqua,359
+2018.0,Light Bluish Gray,30746
+2018.0,Light Nougat,4
+2018.0,Lime,2115
+2018.0,Magenta,685
+2018.0,Medium Azure,1134
+2018.0,Medium Blue,667
+2018.0,Medium Lavender,522
+2018.0,Medium Nougat,1252
+2018.0,Metallic Gold,49
+2018.0,Metallic Silver,219
+2018.0,Nougat,6
+2018.0,Olive Green,642
+2018.0,Orange,3165
+2018.0,Pearl Copper,11
+2018.0,Pearl Gold,2593
+2018.0,Pearl Titanium,324
+2018.0,Red,11021
+2018.0,Reddish Brown,9709
+2018.0,Sand Blue,324
+2018.0,Sand Green,906
+2018.0,Tan,13527
+2018.0,Trans-Bright Green,331
+2018.0,Trans-Brown,491
+2018.0,Trans-Clear,2763
+2018.0,Trans-Dark Blue,327
+2018.0,Trans-Dark Pink,379
+2018.0,Trans-Green,353
+2018.0,Trans-Light Blue,1924
+2018.0,Trans-Medium Blue,7
+2018.0,Trans-Neon Green,175
+2018.0,Trans-Neon Orange,328
+2018.0,Trans-Orange,976
+2018.0,Trans-Purple,282
+2018.0,Trans-Red,1197
+2018.0,Trans-Yellow,936
+2018.0,White,20690
+2018.0,Yellow,5395
+2018.0,Yellowish Green,69
+2018.0,[No Color/Any Color],355
+2019.0,Black,37693
+2019.0,Blue,8637
+2019.0,Bright Green,1030
+2019.0,Bright Light Blue,138
+2019.0,Bright Light Orange,1352
+2019.0,Bright Light Yellow,344
+2019.0,Bright Pink,1143
+2019.0,Chrome Gold,17
+2019.0,Coral,390
+2019.0,Dark Azure,1183
+2019.0,Dark Blue,4552
+2019.0,Dark Bluish Gray,22732
+2019.0,Dark Brown,1727
+2019.0,Dark Green,1477
+2019.0,Dark Orange,1856
+2019.0,Dark Pink,792
+2019.0,Dark Purple,1040
+2019.0,Dark Red,2353
+2019.0,Dark Tan,3949
+2019.0,Dark Turquoise,824
+2019.0,Flat Silver,1751
+2019.0,Glitter Trans-Clear,1
+2019.0,Glitter Trans-Dark Pink,20
+2019.0,Glitter Trans-Light Blue,25
+2019.0,Glitter Trans-Purple,37
+2019.0,Green,2771
+2019.0,Lavender,263
+2019.0,Light Aqua,506
+2019.0,Light Bluish Gray,34129
+2019.0,Lime,1815
+2019.0,Magenta,921
+2019.0,Medium Azure,1429
+2019.0,Medium Blue,326
+2019.0,Medium Lavender,391
+2019.0,Medium Nougat,2390
+2019.0,Metal,1
+2019.0,Metallic Gold,162
+2019.0,Metallic Silver,245
+2019.0,Nougat,1
+2019.0,Olive Green,977
+2019.0,Orange,2549
+2019.0,Pearl Copper,20
+2019.0,Pearl Gold,3107
+2019.0,Pearl Titanium,637
+2019.0,Red,11165
+2019.0,Reddish Brown,11826
+2019.0,Sand Blue,528
+2019.0,Sand Green,1988
+2019.0,Tan,10168
+2019.0,Trans-Bright Green,206
+2019.0,Trans-Brown,487
+2019.0,Trans-Clear,2302
+2019.0,Trans-Dark Blue,434
+2019.0,Trans-Dark Pink,386
+2019.0,Trans-Green,263
+2019.0,Trans-Light Blue,2380
+2019.0,Trans-Neon Green,180
+2019.0,Trans-Neon Orange,74
+2019.0,Trans-Orange,1183
+2019.0,Trans-Purple,177
+2019.0,Trans-Red,996
+2019.0,Trans-Yellow,540
+2019.0,White,23997
+2019.0,Yellow,5898
+2019.0,Yellowish Green,202
+2019.0,[No Color/Any Color],317
+2020.0,Black,48731
+2020.0,Blue,9632
+2020.0,Bright Green,1347
+2020.0,Bright Light Blue,201
+2020.0,Bright Light Orange,1914
+2020.0,Bright Light Yellow,1640
+2020.0,Bright Pink,2009
+2020.0,Chrome Black,1
+2020.0,Chrome Gold,6
+2020.0,Coral,748
+2020.0,Dark Azure,1301
+2020.0,Dark Blue,3517
+2020.0,Dark Bluish Gray,19702
+2020.0,Dark Brown,2026
+2020.0,Dark Green,1097
+2020.0,Dark Orange,1664
+2020.0,Dark Pink,1988
+2020.0,Dark Purple,1203
+2020.0,Dark Red,3113
+2020.0,Dark Tan,6540
+2020.0,Dark Turquoise,1953
+2020.0,Flat Silver,2028
+2020.0,Glitter Trans-Clear,24
+2020.0,Glitter Trans-Dark Pink,18
+2020.0,Glitter Trans-Light Blue,27
+2020.0,Glitter Trans-Orange,1
+2020.0,Glitter Trans-Purple,31
+2020.0,Glow in Dark White,3
+2020.0,Green,3163
+2020.0,Lavender,785
+2020.0,Light Aqua,789
+2020.0,Light Bluish Gray,30695
+2020.0,Light Nougat,17
+2020.0,Lime,3308
+2020.0,Magenta,1186
+2020.0,Medium Azure,2843
+2020.0,Medium Blue,522
+2020.0,Medium Lavender,544
+2020.0,Medium Nougat,3425
+2020.0,Metallic Gold,448
+2020.0,Metallic Silver,218
+2020.0,Nougat,65
+2020.0,Olive Green,817
+2020.0,Opal Trans-Brown,48
+2020.0,Opal Trans-Clear,32
+2020.0,Opal Trans-Dark Pink,32
+2020.0,Opal Trans-Light Blue,64
+2020.0,Opal Trans-Purple,25
+2020.0,Orange,3025
+2020.0,Pearl Copper,5
+2020.0,Pearl Gold,3860
+2020.0,Pearl Titanium,822
+2020.0,Red,14147
+2020.0,Reddish Brown,11511
+2020.0,Sand Blue,431
+2020.0,Sand Green,1298
+2020.0,Tan,16914
+2020.0,Trans-Bright Green,231
+2020.0,Trans-Brown,705
+2020.0,Trans-Clear,2462
+2020.0,Trans-Dark Blue,378
+2020.0,Trans-Dark Pink,291
+2020.0,Trans-Green,226
+2020.0,Trans-Light Blue,2024
+2020.0,Trans-Neon Green,472
+2020.0,Trans-Neon Orange,449
+2020.0,Trans-Orange,1244
+2020.0,Trans-Purple,137
+2020.0,Trans-Red,997
+2020.0,Trans-Yellow,748
+2020.0,White,24042
+2020.0,Yellow,9778
+2020.0,Yellowish Green,314
+2020.0,[No Color/Any Color],567
+2021.0,Black,56582
+2021.0,Blue,10912
+2021.0,Bright Green,3448
+2021.0,Bright Light Blue,845
+2021.0,Bright Light Orange,4189
+2021.0,Bright Light Yellow,1364
+2021.0,Bright Pink,2017
+2021.0,Chrome Gold,44
+2021.0,Coral,1547
+2021.0,Dark Azure,1967
+2021.0,Dark Blue,5005
+2021.0,Dark Bluish Gray,23019
+2021.0,Dark Brown,2054
+2021.0,Dark Green,1658
+2021.0,Dark Orange,2092
+2021.0,Dark Pink,1077
+2021.0,Dark Purple,1709
+2021.0,Dark Red,4655
+2021.0,Dark Tan,4527
+2021.0,Dark Turquoise,5204
+2021.0,Flat Silver,2508
+2021.0,Glitter Trans-Clear,44
+2021.0,Glitter Trans-Dark Pink,20
+2021.0,Glitter Trans-Light Blue,4
+2021.0,Glitter Trans-Purple,30
+2021.0,Glow in Dark White,205
+2021.0,Green,4783
+2021.0,Lavender,1163
+2021.0,Light Aqua,1911
+2021.0,Light Bluish Gray,38885
+2021.0,Light Nougat,362
+2021.0,Lime,4941
+2021.0,Magenta,1404
+2021.0,Medium Azure,4712
+2021.0,Medium Blue,220
+2021.0,Medium Lavender,1133
+2021.0,Medium Nougat,3962
+2021.0,Metal,1
+2021.0,Metallic Gold,338
+2021.0,Metallic Silver,371
+2021.0,Nougat,143
+2021.0,Olive Green,645
+2021.0,Opal Trans-Brown,107
+2021.0,Opal Trans-Clear,69
+2021.0,Opal Trans-Dark Blue,24
+2021.0,Opal Trans-Dark Pink,23
+2021.0,Opal Trans-Light Blue,267
+2021.0,Orange,4289
+2021.0,Pearl Gold,6239
+2021.0,Pearl Titanium,717
+2021.0,Pearl White,1
+2021.0,Red,15237
+2021.0,Reddish Brown,14024
+2021.0,Sand Blue,1073
+2021.0,Sand Green,2592
+2021.0,Tan,16397
+2021.0,Trans-Bright Green,193
+2021.0,Trans-Brown,528
+2021.0,Trans-Clear,3740
+2021.0,Trans-Dark Blue,346
+2021.0,Trans-Dark Pink,393
+2021.0,Trans-Green,224
+2021.0,Trans-Light Blue,3180
+2021.0,Trans-Neon Green,234
+2021.0,Trans-Neon Orange,14
+2021.0,Trans-Orange,1235
+2021.0,Trans-Purple,178
+2021.0,Trans-Red,897
+2021.0,Trans-Yellow,581
+2021.0,White,40798
+2021.0,Yellow,9948
+2021.0,Yellowish Green,296
+2021.0,[No Color/Any Color],332
+2022.0,Black,48114
+2022.0,Blue,9778
+2022.0,Bright Green,2895
+2022.0,Bright Light Blue,1602
+2022.0,Bright Light Orange,3280
+2022.0,Bright Light Yellow,1539
+2022.0,Bright Pink,1573
+2022.0,Chrome Gold,17
+2022.0,Coral,1206
+2022.0,Dark Azure,2306
+2022.0,Dark Blue,5117
+2022.0,Dark Bluish Gray,28353
+2022.0,Dark Brown,1495
+2022.0,Dark Green,1864
+2022.0,Dark Orange,2532
+2022.0,Dark Pink,1480
+2022.0,Dark Purple,1673
+2022.0,Dark Red,4679
+2022.0,Dark Tan,5740
+2022.0,Dark Turquoise,3446
+2022.0,Flat Silver,2122
+2022.0,Glitter Trans-Clear,70
+2022.0,Glitter Trans-Dark Pink,2
+2022.0,Glitter Trans-Light Blue,6
+2022.0,Glitter Trans-Purple,10
+2022.0,Glow in Dark White,71
+2022.0,Green,5124
+2022.0,Lavender,1127
+2022.0,Light Aqua,1363
+2022.0,Light Bluish Gray,34113
+2022.0,Light Nougat,1176
+2022.0,Lime,3255
+2022.0,Magenta,1428
+2022.0,Medium Azure,2736
+2022.0,Medium Blue,1255
+2022.0,Medium Brown,10
+2022.0,Medium Lavender,683
+2022.0,Medium Nougat,4418
+2022.0,Metallic Gold,490
+2022.0,Metallic Silver,562
+2022.0,Nougat,751
+2022.0,Olive Green,811
+2022.0,Opal Trans-Bright Green,31
+2022.0,Opal Trans-Clear,225
+2022.0,Opal Trans-Dark Blue,27
+2022.0,Opal Trans-Dark Pink,7
+2022.0,Opal Trans-Light Blue,84
+2022.0,Opal Trans-Purple,7
+2022.0,Orange,4644
+2022.0,Pearl Gold,4854
+2022.0,Pearl Titanium,896
+2022.0,Red,15455
+2022.0,Reddish Brown,11753
+2022.0,Sand Blue,665
+2022.0,Sand Green,1635
+2022.0,Tan,14219
+2022.0,Trans-Bright Green,261
+2022.0,Trans-Brown,657
+2022.0,Trans-Clear,2716
+2022.0,Trans-Dark Blue,394
+2022.0,Trans-Dark Pink,628
+2022.0,Trans-Green,494
+2022.0,Trans-Light Blue,2528
+2022.0,Trans-Neon Green,173
+2022.0,Trans-Neon Orange,18
+2022.0,Trans-Orange,1204
+2022.0,Trans-Purple,396
+2022.0,Trans-Red,933
+2022.0,Trans-Yellow,666
+2022.0,Vibrant Yellow,597
+2022.0,Warm Tan,8
+2022.0,White,30400
+2022.0,Yellow,9241
+2022.0,Yellowish Green,427
+2022.0,[No Color/Any Color],314
+2023.0,Black,51671
+2023.0,Blue,7739
+2023.0,Bright Green,3118
+2023.0,Bright Light Blue,1332
+2023.0,Bright Light Orange,3542
+2023.0,Bright Light Yellow,1842
+2023.0,Bright Pink,1694
+2023.0,Chrome Gold,9
+2023.0,Chrome Silver,7
+2023.0,Coral,1240
+2023.0,Dark Azure,2335
+2023.0,Dark Blue,5282
+2023.0,Dark Bluish Gray,26809
+2023.0,Dark Brown,2620
+2023.0,Dark Green,2097
+2023.0,Dark Orange,2552
+2023.0,Dark Pink,1195
+2023.0,Dark Purple,1371
+2023.0,Dark Red,3418
+2023.0,Dark Tan,7444
+2023.0,Dark Turquoise,3449
+2023.0,Flat Silver,1601
+2023.0,Glitter Trans-Clear,66
+2023.0,Glitter Trans-Light Blue,1
+2023.0,Glitter Trans-Purple,19
+2023.0,Glow in Dark White,56
+2023.0,Green,4793
+2023.0,Lavender,1230
+2023.0,Light Aqua,2093
+2023.0,Light Bluish Gray,35883
+2023.0,Light Nougat,1199
+2023.0,Lime,4483
+2023.0,Magenta,1445
+2023.0,Medium Azure,3044
+2023.0,Medium Blue,224
+2023.0,Medium Brown,3
+2023.0,Medium Lavender,909
+2023.0,Medium Nougat,5551
+2023.0,Metallic Gold,338
+2023.0,Metallic Silver,281
+2023.0,Nougat,258
+2023.0,Olive Green,1753
+2023.0,Opal Trans-Bright Green,24
+2023.0,Opal Trans-Brown,21
+2023.0,Opal Trans-Clear,202
+2023.0,Opal Trans-Dark Blue,55
+2023.0,Opal Trans-Dark Pink,29
+2023.0,Opal Trans-Light Blue,165
+2023.0,Opal Trans-Purple,80
+2023.0,Orange,3873
+2023.0,Pearl Gold,6664
+2023.0,Pearl Titanium,499
+2023.0,Red,14588
+2023.0,Reddish Brown,14984
+2023.0,Sand Blue,1360
+2023.0,Sand Green,2751
+2023.0,Sky Blue,1
+2023.0,Tan,15066
+2023.0,Trans-Black,326
+2023.0,Trans-Bright Green,300
+2023.0,Trans-Brown,306
+2023.0,Trans-Clear,2885
+2023.0,Trans-Dark Blue,399
+2023.0,Trans-Dark Pink,272
+2023.0,Trans-Green,166
+2023.0,Trans-Light Blue,3333
+2023.0,Trans-Neon Green,8
+2023.0,Trans-Neon Orange,1
+2023.0,Trans-Orange,1357
+2023.0,Trans-Purple,145
+2023.0,Trans-Red,860
+2023.0,Trans-Yellow,821
+2023.0,Vibrant Yellow,462
+2023.0,Warm Tan,11
+2023.0,White,36573
+2023.0,Yellow,8247
+2023.0,Yellowish Green,620
+2023.0,[No Color/Any Color],562
+2024.0,Black,57133
+2024.0,Blue,9238
+2024.0,Bright Green,3304
+2024.0,Bright Light Blue,1691
+2024.0,Bright Light Orange,4764
+2024.0,Bright Light Yellow,1723
+2024.0,Bright Pink,2486
+2024.0,Chrome Gold,21
+2024.0,Chrome Silver,6
+2024.0,Coral,1267
+2024.0,Dark Azure,1944
+2024.0,Dark Blue,5357
+2024.0,Dark Bluish Gray,30411
+2024.0,Dark Brown,2705
+2024.0,Dark Green,2873
+2024.0,Dark Orange,5223
+2024.0,Dark Pink,2173
+2024.0,Dark Purple,1704
+2024.0,Dark Red,3798
+2024.0,Dark Tan,9113
+2024.0,Dark Turquoise,3153
+2024.0,Flat Silver,1545
+2024.0,Glitter Trans-Dark Pink,5
+2024.0,Glitter Trans-Light Blue,2
+2024.0,Glitter Trans-Purple,31
+2024.0,Glow in Dark White,59
+2024.0,Green,6270
+2024.0,Lavender,983
+2024.0,Light Aqua,1579
+2024.0,Light Bluish Gray,38112
+2024.0,Light Nougat,580
+2024.0,Lime,3927
+2024.0,Magenta,1470
+2024.0,Medium Azure,2901
+2024.0,Medium Blue,265
+2024.0,Medium Brown,10
+2024.0,Medium Lavender,1513
+2024.0,Medium Nougat,6556
+2024.0,Metallic Gold,511
+2024.0,Metallic Silver,238
+2024.0,Nougat,184
+2024.0,Olive Green,1654
+2024.0,Opal Trans-Bright Green,15
+2024.0,Opal Trans-Clear,161
+2024.0,Opal Trans-Dark Blue,90
+2024.0,Opal Trans-Dark Pink,54
+2024.0,Opal Trans-Light Blue,255
+2024.0,Opal Trans-Purple,131
+2024.0,Opal Trans-Yellow,8
+2024.0,Orange,4047
+2024.0,Pearl Gold,6678
+2024.0,Pearl Titanium,509
+2024.0,Red,17035
+2024.0,Reddish Brown,20683
+2024.0,Reddish Orange,1394
+2024.0,Sand Blue,1443
+2024.0,Sand Green,1712
+2024.0,Sienna Brown,1
+2024.0,Tan,18254
+2024.0,Trans-Black,310
+2024.0,Trans-Bright Green,570
+2024.0,Trans-Brown,132
+2024.0,Trans-Clear,3551
+2024.0,Trans-Dark Blue,402
+2024.0,Trans-Dark Pink,474
+2024.0,Trans-Green,267
+2024.0,Trans-Light Blue,2057
+2024.0,Trans-Neon Green,2
+2024.0,Trans-Orange,1588
+2024.0,Trans-Purple,748
+2024.0,Trans-Red,1183
+2024.0,Trans-Yellow,892
+2024.0,Vibrant Yellow,305
+2024.0,Warm Tan,104
+2024.0,White,33832
+2024.0,Yellow,8375
+2024.0,Yellowish Green,275
+2024.0,[No Color/Any Color],582
+2025.0,Black,63547
+2025.0,Blue,8886
+2025.0,Bright Green,3964
+2025.0,Bright Light Blue,1700
+2025.0,Bright Light Orange,3743
+2025.0,Bright Light Yellow,2153
+2025.0,Bright Pink,2765
+2025.0,Chrome Gold,17
+2025.0,Chrome Silver,2
+2025.0,Coral,1074
+2025.0,Dark Azure,1495
+2025.0,Dark Blue,5401
+2025.0,Dark Bluish Gray,30074
+2025.0,Dark Brown,3197
+2025.0,Dark Green,4601
+2025.0,Dark Orange,4474
+2025.0,Dark Pink,2021
+2025.0,Dark Purple,1340
+2025.0,Dark Red,4185
+2025.0,Dark Tan,10134
+2025.0,Dark Turquoise,2524
+2025.0,Flat Silver,1406
+2025.0,Glitter Trans-Purple,1
+2025.0,Glow in Dark White,27
+2025.0,Green,7989
+2025.0,Lavender,1327
+2025.0,Light Aqua,1143
+2025.0,Light Bluish Gray,44458
+2025.0,Light Nougat,1592
+2025.0,Lime,3728
+2025.0,Magenta,1243
+2025.0,Medium Azure,3848
+2025.0,Medium Blue,127
+2025.0,Medium Brown,5
+2025.0,Medium Lavender,1278
+2025.0,Medium Nougat,6325
+2025.0,Metallic Gold,242
+2025.0,Metallic Silver,128
+2025.0,Nougat,409
+2025.0,Ochre Yellow,1
+2025.0,Olive Green,1629
+2025.0,Opal Trans-Bright Green,79
+2025.0,Opal Trans-Clear,219
+2025.0,Opal Trans-Dark Blue,14
+2025.0,Opal Trans-Dark Pink,73
+2025.0,Opal Trans-Light Blue,96
+2025.0,Opal Trans-Purple,51
+2025.0,Opal Trans-Yellow,7
+2025.0,Orange,4545
+2025.0,Pearl Gold,6824
+2025.0,Pearl Titanium,332
+2025.0,Red,19745
+2025.0,Reddish Brown,24118
+2025.0,Reddish Orange,1191
+2025.0,Sand Blue,1507
+2025.0,Sand Green,3054
+2025.0,Sienna Brown,3
+2025.0,Tan,21155
+2025.0,Trans-Black,185
+2025.0,Trans-Bright Green,501
+2025.0,Trans-Brown,21
+2025.0,Trans-Clear,4199
+2025.0,Trans-Dark Blue,222
+2025.0,Trans-Dark Pink,548
+2025.0,Trans-Green,217
+2025.0,Trans-Light Blue,2473
+2025.0,Trans-Orange,1378
+2025.0,Trans-Purple,158
+2025.0,Trans-Red,984
+2025.0,Trans-Yellow,799
+2025.0,Vibrant Yellow,486
+2025.0,Warm Tan,2
+2025.0,White,36710
+2025.0,Yellow,10325
+2025.0,Yellowish Green,701
+2025.0,[No Color/Any Color],603
+2026.0,Black,39302
+2026.0,Blue,6817
+2026.0,Blue Violet,381
+2026.0,Bright Green,3422
+2026.0,Bright Light Blue,1621
+2026.0,Bright Light Orange,2092
+2026.0,Bright Light Yellow,1240
+2026.0,Bright Pink,2055
+2026.0,Chrome Gold,29
+2026.0,Chrome Silver,10
+2026.0,Coral,770
+2026.0,Dark Azure,1852
+2026.0,Dark Blue,3426
+2026.0,Dark Bluish Gray,21978
+2026.0,Dark Brown,1730
+2026.0,Dark Green,2634
+2026.0,Dark Orange,2825
+2026.0,Dark Pink,2062
+2026.0,Dark Purple,780
+2026.0,Dark Red,3353
+2026.0,Dark Tan,6698
+2026.0,Dark Turquoise,1834
+2026.0,Flat Silver,1025
+2026.0,Glow in Dark White,5
+2026.0,Green,5003
+2026.0,Lavender,1031
+2026.0,Light Aqua,828
+2026.0,Light Bluish Gray,27909
+2026.0,Light Nougat,1036
+2026.0,Lime,3814
+2026.0,Magenta,919
+2026.0,Medium Azure,4278
+2026.0,Medium Blue,52
+2026.0,Medium Brown,13
+2026.0,Medium Lavender,879
+2026.0,Medium Nougat,6112
+2026.0,Metallic Gold,497
+2026.0,Metallic Silver,185
+2026.0,Nougat,271
+2026.0,Ochre Yellow,6
+2026.0,Olive Green,1207
+2026.0,Opal Trans-Bright Green,40
+2026.0,Opal Trans-Clear,131
+2026.0,Opal Trans-Dark Blue,4
+2026.0,Opal Trans-Dark Pink,59
+2026.0,Opal Trans-Light Blue,140
+2026.0,Opal Trans-Purple,34
+2026.0,Opal Trans-Yellow,8
+2026.0,Orange,3318
+2026.0,Pearl Gold,5698
+2026.0,Pearl Titanium,358
+2026.0,Red,12354
+2026.0,Reddish Brown,13486
+2026.0,Reddish Orange,715
+2026.0,Sand Blue,619
+2026.0,Sand Green,2639
+2026.0,Sienna Brown,1
+2026.0,Tan,14816
+2026.0,Trans-Black,96
+2026.0,Trans-Bright Green,199
+2026.0,Trans-Clear,2415
+2026.0,Trans-Dark Blue,214
+2026.0,Trans-Dark Pink,169
+2026.0,Trans-Green,153
+2026.0,Trans-Light Blue,1593
+2026.0,Trans-Orange,951
+2026.0,Trans-Purple,116
+2026.0,Trans-Red,579
+2026.0,Trans-Yellow,390
+2026.0,Vibrant Yellow,497
+2026.0,Warm Pink,405
+2026.0,Warm Tan,150
+2026.0,White,28664
+2026.0,Yellow,7220
+2026.0,Yellowish Green,545
+2026.0,[No Color/Any Color],186
+,Aqua,1
+,Black,13735
+,Blue,3471
+,Blue Violet,6
+,Bright Green,521
+,Bright Light Blue,418
+,Bright Light Orange,868
+,Bright Light Yellow,689
+,Bright Pink,519
+,Brown,428
+,Chrome Black,3
+,Chrome Blue,12
+,Chrome Gold,56
+,Chrome Pink,8
+,Chrome Silver,17
+,Copper,15
+,Coral,93
+,Dark Azure,688
+,Dark Blue,2680
+,Dark Bluish Gray,3400
+,Dark Brown,1685
+,Dark Gray,304
+,Dark Green,654
+,Dark Nougat,3
+,Dark Orange,1123
+,Dark Pink,385
+,Dark Purple,832
+,Dark Red,1335
+,Dark Tan,1270
+,Dark Turquoise,376
+,Earth Orange,15
+,Flat Silver,891
+,Glitter Trans-Clear,1
+,Glitter Trans-Light Blue,3
+,Glitter Trans-Purple,2
+,Glow In Dark Opaque,7
+,Glow In Dark Trans,3
+,Glow in Dark White,30
+,Green,1237
+,Lavender,145
+,Light Aqua,334
+,Light Blue,4
+,Light Bluish Gray,3721
+,Light Brown,5
+,Light Gray,366
+,Light Lime,1
+,Light Nougat,4160
+,Light Pink,7
+,Light Purple,4
+,Light Turquoise,2
+,Light Violet,12
+,Light Yellow,4
+,Lime,558
+,Maersk Blue,2
+,Magenta,342
+,Medium Azure,343
+,Medium Blue,580
+,Medium Bluish Violet,2
+,Medium Brown,137
+,Medium Dark Pink,38
+,Medium Green,9
+,Medium Lavender,392
+,Medium Lime,1
+,Medium Nougat,1117
+,Medium Orange,8
+,Medium Violet,1
+,Metallic Copper,13
+,Metallic Gold,72
+,Metallic Silver,140
+,Nougat,517
+,Ochre Yellow,4
+,Olive Green,437
+,Opal Trans-Bright Green,2
+,Opal Trans-Clear,11
+,Opal Trans-Dark Blue,2
+,Opal Trans-Dark Pink,7
+,Opal Trans-Light Blue,19
+,Opal Trans-Purple,8
+,Orange,1379
+,Pastel Blue,3
+,Pearl Copper,3
+,Pearl Dark Gray,46
+,Pearl Gold,1019
+,Pearl Light Gold,5
+,Pearl Light Gray,95
+,Pearl Sand Blue,4
+,Pearl Titanium,814
+,Pink,22
+,Purple,8
+,Red,5373
+,Reddish Brown,3013
+,Reddish Orange,55
+,Royal Blue,2
+,Sand Blue,741
+,Sand Green,520
+,Sand Purple,4
+,Sand Red,9
+,Sienna Brown,46
+,Sky Blue,1
+,Speckle Black-Copper,3
+,Speckle Black-Gold,3
+,Speckle Black-Silver,54
+,Speckle DBGray-Silver,2
+,Tan,2092
+,Trans-Black,4
+,Trans-Bright Green,45
+,Trans-Brown,298
+,Trans-Clear,617
+,Trans-Dark Blue,63
+,Trans-Dark Pink,81
+,Trans-Green,28
+,Trans-Light Blue,401
+,Trans-Medium Blue,9
+,Trans-Neon Green,140
+,Trans-Neon Orange,67
+,Trans-Orange,167
+,Trans-Purple,56
+,Trans-Red,208
+,Trans-Yellow,103
+,Umber Brown,16
+,Very Light Bluish Gray,5
+,Vibrant Yellow,93
+,Violet,29
+,Warm Pink,4
+,Warm Tan,286
+,White,9647
+,Yellow,10426
+,Yellowish Green,131
+,[No Color/Any Color],93
